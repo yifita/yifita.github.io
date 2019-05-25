@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Yifan Wang</title>
+    <link>https://yifita.github.io/authors/</link>
+    <description>Recent content in Authors on Yifan Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yifita.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DanielCohenor</title>
+      <link>https://yifita.github.io/authors/danielcohenor/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/authors/danielcohenor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HuiHuang</title>
+      <link>https://yifita.github.io/authors/huihuang/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/authors/huihuang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OlgaSorkine</title>
+      <link>https://yifita.github.io/authors/olgasorkine/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/authors/olgasorkine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShihaoWu</title>
+      <link>https://yifita.github.io/authors/shihaowu/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/authors/shihaowu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YifanWang</title>
+      <link>https://yifita.github.io/authors/yifanwang/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/authors/yifanwang/</guid>
+      <description>I&amp;rsquo;m a PhD student in the Interactive Geometry Lab (IGL) at ETH Zurich supervised by Prof. Olga Sorkine-Hornung. Before joining IGL, I received my Bachelor degree with distinction in Electrical Engineering and Information Technology (Elektrotechnik und Informationstechnik) at Technische Universität München (TUM) and completed my Master with distinction in Robotics, System and Control at ETH Zurich.
+My areas of research lies in applying machine learning techniques, especially deep learning, to challenging image and geometry processing problems.</description>
+    </item>
+    
+    <item>
+      <title>AlexanderHornung</title>
+      <link>https://yifita.github.io/authors/alexanderhornung/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/authors/alexanderhornung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BrianMcWilliams</title>
+      <link>https://yifita.github.io/authors/brianmcwilliams/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/authors/brianmcwilliams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ChristopherSchroers</title>
+      <link>https://yifita.github.io/authors/christopherschroers/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/authors/christopherschroers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FedericoPerazzi</title>
+      <link>https://yifita.github.io/authors/federicoperazzi/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/authors/federicoperazzi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JieSong</title>
+      <link>https://yifita.github.io/authors/jiesong/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/authors/jiesong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limin Wang</title>
+      <link>https://yifita.github.io/authors/limin-wang/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/authors/limin-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luc Van Gool</title>
+      <link>https://yifita.github.io/authors/luc-van-gool/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/authors/luc-van-gool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OtmarHilliges</title>
+      <link>https://yifita.github.io/authors/otmarhilliges/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/authors/otmarhilliges/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

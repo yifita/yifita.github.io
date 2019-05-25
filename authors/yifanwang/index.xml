@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YifanWang on Yifan Wang</title>
+    <link>https://yifita.github.io/authors/yifanwang/</link>
+    <description>Recent content in YifanWang on Yifan Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yifita.github.io/authors/yifanwang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Patch-base progressive 3D Point Set Upsampling</title>
+      <link>https://yifita.github.io/publication/3pu/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/publication/3pu/</guid>
+      <description>Results  $16\times$ upsampling from 625 points   
+$16\times$ upsampling from 5000 points  
+$16\times$ upsampling from scan data  
+$16\times$ upsampling from virtual scan data  
+References PU-Net: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &amp;ldquo;Pu-net: Point cloud upsampling network&amp;rdquo;, CVPR 2018
+EC-Net: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &amp;ldquo;Ec-net: an edge-aware point set consolidation network&amp;rdquo;, ECCV 2018</description>
+    </item>
+    
+    <item>
+      <title>A Fully Progressive Approach to Single-Image Super-Resolution</title>
+      <link>https://yifita.github.io/publication/prosr/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/publication/prosr/</guid>
+      <description>We set a new benchmark for single-image super-resolution by exploiting progressiveness both in architecture and training. The proposed multi-scale models, &lt;strong&gt;ProSR&lt;/strong&gt; and &lt;strong&gt;ProSRGan&lt;/strong&gt;, improve the reconstruction quality in terms of PSNR and visual quality respectively. ProSR is one of the winning teams.</description>
+    </item>
+    
+    <item>
+      <title>Two-Stream SR-CNNs for Action Recognition in Videos</title>
+      <link>https://yifita.github.io/publication/action_srcnn/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/publication/action_srcnn/</guid>
+      <description> Network Architecture </description>
+    </item>
+    
+    <item>
+      <title>YifanWang</title>
+      <link>https://yifita.github.io/authors/yifanwang/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/authors/yifanwang/</guid>
+      <description>I&amp;rsquo;m a PhD student in the Interactive Geometry Lab (IGL) at ETH Zurich supervised by Prof. Olga Sorkine-Hornung. Before joining IGL, I received my Bachelor degree with distinction in Electrical Engineering and Information Technology (Elektrotechnik und Informationstechnik) at Technische Universität München (TUM) and completed my Master with distinction in Robotics, System and Control at ETH Zurich.
+My areas of research lies in applying machine learning techniques, especially deep learning, to challenging image and geometry processing problems.</description>
+    </item>
+    
+  </channel>
+</rss>

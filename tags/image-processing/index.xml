@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>image processing on Yifan Wang</title>
+    <link>https://yifita.github.io/tags/image-processing/</link>
+    <description>Recent content in image processing on Yifan Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yifita.github.io/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Fully Progressive Approach to Single-Image Super-Resolution</title>
+      <link>https://yifita.github.io/publication/prosr/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/publication/prosr/</guid>
+      <description>We set a new benchmark for single-image super-resolution by exploiting progressiveness both in architecture and training. The proposed multi-scale models, &lt;strong&gt;ProSR&lt;/strong&gt; and &lt;strong&gt;ProSRGan&lt;/strong&gt;, improve the reconstruction quality in terms of PSNR and visual quality respectively. ProSR is one of the winning teams.</description>
+    </item>
+    
+    <item>
+      <title>Single-Image Super-Resolution</title>
+      <link>https://yifita.github.io/project/sisr/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/project/sisr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

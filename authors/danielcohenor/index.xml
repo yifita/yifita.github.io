@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DanielCohenor on Yifan Wang</title>
+    <link>https://yifita.github.io/authors/danielcohenor/</link>
+    <description>Recent content in DanielCohenor on Yifan Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yifita.github.io/authors/danielcohenor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Patch-base progressive 3D Point Set Upsampling</title>
+      <link>https://yifita.github.io/publication/3pu/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yifita.github.io/publication/3pu/</guid>
+      <description>Results  $16\times$ upsampling from 625 points   
+$16\times$ upsampling from 5000 points  
+$16\times$ upsampling from scan data  
+$16\times$ upsampling from virtual scan data  
+References PU-Net: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &amp;ldquo;Pu-net: Point cloud upsampling network&amp;rdquo;, CVPR 2018
+EC-Net: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &amp;ldquo;Ec-net: an edge-aware point set consolidation network&amp;rdquo;, ECCV 2018</description>
+    </item>
+    
+  </channel>
+</rss>
