@@ -4,11 +4,11 @@
     <title>BrianMcWilliams on Yifan Wang</title>
     <link>https://yifita.github.io/authors/brianmcwilliams/</link>
     <description>Recent content in BrianMcWilliams on Yifan Wang</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://yifita.github.io/authors/brianmcwilliams/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://yifita.github.io/authors/brianmcwilliams/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +17,40 @@
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yifita.github.io/publication/prosr/</guid>
-      <description>We set a new benchmark for single-image super-resolution by exploiting progressiveness both in architecture and training. The proposed multi-scale models, &lt;strong&gt;ProSR&lt;/strong&gt; and &lt;strong&gt;ProSRGan&lt;/strong&gt;, improve the reconstruction quality in terms of PSNR and visual quality respectively. ProSR is one of the winning teams.</description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;prosr_benchmark.png&#34; alt=&#34;benchmark&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;MsLapSRN: Lai, Wei-Sheng, et al. &amp;ldquo;Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks.&amp;rdquo; arXiv preprint arXiv:1710.01992 (2017).&lt;/p&gt;
+
+&lt;p&gt;EDSR, MDSR: Lim, Bee, et al. &amp;ldquo;Enhanced deep residual networks for single image super-resolution.&amp;rdquo; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. Vol. 1. No. 2. 2017.&lt;/p&gt;
+
+&lt;p&gt;RDN:Zhang, Yulun, et al. &amp;ldquo;Residual Dense Network for Image Super-Resolution.&amp;rdquo;  The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- ### Accompanying Video ###
+(Best viewed in full-screen mode)
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/ON3XHnaDepE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+ --&gt;
+
+&lt;h3 id=&#34;featured-video&#34;&gt;Featured Video&lt;/h3&gt;
+
+&lt;p&gt;It&amp;rsquo;s a pleasure to be featured in &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg&#34; target=&#34;_blank&#34;&gt;2 minute paper&lt;/a&gt;&amp;rdquo;, an amazing YouTube channel that introduces latest development of AI in a variety of applications.
+Here&amp;rsquo;s the video that talks about our work.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/HvH0b9K_Iro&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
     </item>
     
   </channel>

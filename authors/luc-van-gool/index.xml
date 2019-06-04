@@ -4,11 +4,11 @@
     <title>Luc Van Gool on Yifan Wang</title>
     <link>https://yifita.github.io/authors/luc-van-gool/</link>
     <description>Recent content in Luc Van Gool on Yifan Wang</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://yifita.github.io/authors/luc-van-gool/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://yifita.github.io/authors/luc-van-gool/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +17,12 @@
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://yifita.github.io/publication/action_srcnn/</guid>
-      <description> Network Architecture </description>
+      <description>
+
+&lt;h3 id=&#34;network-architecture&#34;&gt;Network Architecture&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;Architecture&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
