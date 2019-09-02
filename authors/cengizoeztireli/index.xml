@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ShihaoWu on Yifan Wang</title>
-    <link>https://yifita.github.io/authors/shihaowu/</link>
-    <description>Recent content in ShihaoWu on Yifan Wang</description>
+    <title>CengizOeztireli on Yifan Wang</title>
+    <link>https://yifita.github.io/authors/cengizoeztireli/</link>
+    <description>Recent content in CengizOeztireli on Yifan Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://yifita.github.io/authors/shihaowu/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://yifita.github.io/authors/cengizoeztireli/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -46,82 +46,6 @@
 
 &lt;p&gt;We would like to thank Federico Danieli for the insightful discussion, Phillipp Herholz for the timely feedack, Romann Weber for the video voice-over and Derek Liu for the help during the rebuttal.
 This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Patch-base progressive 3D Point Set Upsampling</title>
-      <link>https://yifita.github.io/publication/3pu/</link>
-      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://yifita.github.io/publication/3pu/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
-
-&lt;p&gt;&lt;center&gt;
-$16\times$ upsampling from 625 points
-&lt;/center&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;figure_sparse.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;$16\times$ upsampling from 5000 points&lt;/center&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;figure_dense.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;$16\times$ upsampling from scan data&lt;/center&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;real_scan.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;$16\times$ upsampling from virtual scan data&lt;/center&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;scan.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;PU-Net&lt;/em&gt;: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &amp;ldquo;Pu-net: Point cloud upsampling network&amp;rdquo;, CVPR 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;EC-Net&lt;/em&gt;: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &amp;ldquo;Ec-net: an edge-aware point set consolidation network&amp;rdquo;,  ECCV 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;EAR&lt;/em&gt;: H. Huang, S. Wu, M. Gong, D. Cohen-Or, U. Ascher, and H. Zhang, &amp;ldquo;Edge-aware point set resampling&amp;rdquo;, ACM ToG 2013&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;WLOP&lt;/em&gt;: H. Huang, D. Li, H. Zhang, U. Ascher, and D. Cohen-Or, &amp;ldquo;Consolidation of unorganized point clouds for surface reconstruction&amp;rdquo;, SIGGRAPH Asia 2009&lt;/p&gt;
 </description>
     </item>
     
