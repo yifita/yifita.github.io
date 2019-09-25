@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DanielCohenor on Yifan Wang</title>
+    <title>DanielCohenor | Yifan Wang</title>
     <link>https://yifita.github.io/authors/danielcohenor/</link>
-    <description>Recent content in DanielCohenor on Yifan Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 24 Nov 2018 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://yifita.github.io/authors/danielcohenor/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://yifita.github.io/authors/danielcohenor/index.xml" rel="self" type="application/rss+xml" />
+    <description>DanielCohenor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/img/icon-192.png</url>
+      <title>DanielCohenor</title>
+      <link>https://yifita.github.io/authors/danielcohenor/</link>
+    </image>
     
     <item>
       <title>Patch-base progressive 3D Point Set Upsampling</title>
       <link>https://yifita.github.io/publication/3pu/</link>
       <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/publication/3pu/</guid>
       <description>
 
@@ -29,12 +29,18 @@ $16\times$ upsampling from 625 points
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure_sparse.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_sparse.png&#34; &gt;
 
+&lt;img src=&#34;figure_sparse.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -42,12 +48,18 @@ $16\times$ upsampling from 625 points
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure_dense.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_dense.png&#34; &gt;
 
+&lt;img src=&#34;figure_dense.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -55,12 +67,18 @@ $16\times$ upsampling from 625 points
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;real_scan.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;real_scan.png&#34; &gt;
 
+&lt;img src=&#34;real_scan.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -68,12 +86,18 @@ $16\times$ upsampling from 625 points
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;scan.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;scan.png&#34; &gt;
 
+&lt;img src=&#34;scan.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 

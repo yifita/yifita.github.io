@@ -1,27 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Yifan Wang</title>
+    <title>Publications | Yifan Wang</title>
     <link>https://yifita.github.io/publication/</link>
-    <description>Recent content in Publications on Yifan Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+      <atom:link href="https://yifita.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://yifita.github.io/publication/</link>
+    </image>
     
-	    <atom:link href="https://yifita.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Blind Image Super-Resolution with Spatially Variant Degradations</title>
+      <link>https://yifita.github.io/publication/variational_blindsr/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/publication/variational_blindsr/</guid>
+      <description>
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;overview_v3.png&#34; alt=&#34;overview&#34; /&gt;
+In blind super-resolution, the degradation kernel k applied on the high resolution image to obtain the low resolution image $I_l$ is unknown. Our pipeline is duplicated for two different kernels (a) and (b): the degradation-aware generator ($\mathcal{F}_g$) computes a high resolution output according to the provided blur kernel k. We note that a NN $\mathcal{F}_k$ is used to map the kernels to a low dimensional representation. The two kernels will result in different high resolution estimates. The kernel (a) farther from the unknown original degradation leads to more artifacts. To detect this, we propose a kernel discriminator network ($\mathcal{F}_d$) predicting the error due to using the incorrect kernel. By taking advantage of these two networks, we can express kernel estimation as finding the blur kernel resulting in the least amount of errors and artifacts in the predicted high resolution image (See text for details). Photo Credits: Pixabay/pexels.com.&lt;/p&gt;
+
+&lt;h2 id=&#34;results-screenshots-from-the-paper&#34;&gt;Results (screenshots from the paper)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;comparison.png&#34; alt=&#34;comparison&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Differentiable Surface Splatting for Point-based Geometry Processing</title>
       <link>https://yifita.github.io/publication/dss/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/publication/dss/</guid>
       <description>
 
+&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34; /&gt;&lt;/p&gt;
+
 &lt;h3 id=&#34;shape-synthesis&#34;&gt;Shape Synthesis&lt;/h3&gt;
 
-&lt;p&gt;We can synthesize create shape from multiple 2D images. This process is not constrained by topology changes.
+&lt;p&gt;We can synthesize shapes from multiple 2D images. This process is not constrained by topology changes.
 &lt;img src=&#34;yoga.png&#34; alt=&#34;synthesis&#34; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;point-cloud-filering&#34;&gt;Point Cloud Filering&lt;/h3&gt;
@@ -44,7 +64,7 @@
 
 &lt;h3 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h3&gt;
 
-&lt;p&gt;We would like to thank Federico Danieli for the insightful discussion, Phillipp Herholz for the timely feedack, Romann Weber for the video voice-over and Derek Liu for the help during the rebuttal.
+&lt;p&gt;We would like to thank Federico Danieli for the insightful discussion, Philipp Herholz for the timely feedack, Romann Weber for the video voice-over and Derek Liu for the help during the rebuttal.
 This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.&lt;/p&gt;
 </description>
     </item>
@@ -53,7 +73,6 @@ This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.&lt;
       <title>Patch-base progressive 3D Point Set Upsampling</title>
       <link>https://yifita.github.io/publication/3pu/</link>
       <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/publication/3pu/</guid>
       <description>
 
@@ -67,12 +86,18 @@ $16\times$ upsampling from 625 points
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure_sparse.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_sparse.png&#34; &gt;
 
+&lt;img src=&#34;figure_sparse.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -80,12 +105,18 @@ $16\times$ upsampling from 625 points
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure_dense.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_dense.png&#34; &gt;
 
+&lt;img src=&#34;figure_dense.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -93,12 +124,18 @@ $16\times$ upsampling from 625 points
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;real_scan.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;real_scan.png&#34; &gt;
 
+&lt;img src=&#34;real_scan.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -106,12 +143,18 @@ $16\times$ upsampling from 625 points
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;scan.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;scan.png&#34; &gt;
 
+&lt;img src=&#34;scan.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 
@@ -129,7 +172,6 @@ $16\times$ upsampling from 625 points
       <title>A Fully Progressive Approach to Single-Image Super-Resolution</title>
       <link>https://yifita.github.io/publication/prosr/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/publication/prosr/</guid>
       <description>
 
@@ -171,7 +213,6 @@ Here&amp;rsquo;s the video that talks about our work.
       <title>Two-Stream SR-CNNs for Action Recognition in Videos</title>
       <link>https://yifita.github.io/publication/action_srcnn/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/publication/action_srcnn/</guid>
       <description>
 

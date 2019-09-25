@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JieSong on Yifan Wang</title>
+    <title>JieSong | Yifan Wang</title>
     <link>https://yifita.github.io/authors/jiesong/</link>
-    <description>Recent content in JieSong on Yifan Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://yifita.github.io/authors/jiesong/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://yifita.github.io/authors/jiesong/index.xml" rel="self" type="application/rss+xml" />
+    <description>JieSong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/img/icon-192.png</url>
+      <title>JieSong</title>
+      <link>https://yifita.github.io/authors/jiesong/</link>
+    </image>
     
     <item>
       <title>Two-Stream SR-CNNs for Action Recognition in Videos</title>
       <link>https://yifita.github.io/publication/action_srcnn/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/publication/action_srcnn/</guid>
       <description>
 

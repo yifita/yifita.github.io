@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rendering on Yifan Wang</title>
+    <title>rendering | Yifan Wang</title>
     <link>https://yifita.github.io/tags/rendering/</link>
-    <description>Recent content in rendering on Yifan Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://yifita.github.io/tags/rendering/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://yifita.github.io/tags/rendering/index.xml" rel="self" type="application/rss+xml" />
+    <description>rendering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/img/icon-192.png</url>
+      <title>rendering</title>
+      <link>https://yifita.github.io/tags/rendering/</link>
+    </image>
     
     <item>
       <title>Differentiable Surface Splatting for Point-based Geometry Processing</title>
       <link>https://yifita.github.io/publication/dss/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/publication/dss/</guid>
       <description>
 
+&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34; /&gt;&lt;/p&gt;
+
 &lt;h3 id=&#34;shape-synthesis&#34;&gt;Shape Synthesis&lt;/h3&gt;
 
-&lt;p&gt;We can synthesize create shape from multiple 2D images. This process is not constrained by topology changes.
+&lt;p&gt;We can synthesize shapes from multiple 2D images. This process is not constrained by topology changes.
 &lt;img src=&#34;yoga.png&#34; alt=&#34;synthesis&#34; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;point-cloud-filering&#34;&gt;Point Cloud Filering&lt;/h3&gt;
@@ -44,7 +46,7 @@
 
 &lt;h3 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h3&gt;
 
-&lt;p&gt;We would like to thank Federico Danieli for the insightful discussion, Phillipp Herholz for the timely feedack, Romann Weber for the video voice-over and Derek Liu for the help during the rebuttal.
+&lt;p&gt;We would like to thank Federico Danieli for the insightful discussion, Philipp Herholz for the timely feedack, Romann Weber for the video voice-over and Derek Liu for the help during the rebuttal.
 This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.&lt;/p&gt;
 </description>
     </item>

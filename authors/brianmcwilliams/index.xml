@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BrianMcWilliams on Yifan Wang</title>
+    <title>BrianMcWilliams | Yifan Wang</title>
     <link>https://yifita.github.io/authors/brianmcwilliams/</link>
-    <description>Recent content in BrianMcWilliams on Yifan Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://yifita.github.io/authors/brianmcwilliams/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://yifita.github.io/authors/brianmcwilliams/index.xml" rel="self" type="application/rss+xml" />
+    <description>BrianMcWilliams</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/img/icon-192.png</url>
+      <title>BrianMcWilliams</title>
+      <link>https://yifita.github.io/authors/brianmcwilliams/</link>
+    </image>
     
     <item>
       <title>A Fully Progressive Approach to Single-Image Super-Resolution</title>
       <link>https://yifita.github.io/publication/prosr/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/publication/prosr/</guid>
       <description>
 

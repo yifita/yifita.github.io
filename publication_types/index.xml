@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Yifan Wang</title>
+    <title>Publication_types | Yifan Wang</title>
     <link>https://yifita.github.io/publication_types/</link>
-    <description>Recent content in Publication_types on Yifan Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://yifita.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://yifita.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/img/icon-192.png</url>
+      <title>Publication_types</title>
+      <link>https://yifita.github.io/publication_types/</link>
+    </image>
     
     <item>
       <title>1</title>
       <link>https://yifita.github.io/publication_types/1/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication_types/1/</guid>
       <description></description>
     </item>

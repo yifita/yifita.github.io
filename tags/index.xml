@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Yifan Wang</title>
+    <title>Tags | Yifan Wang</title>
     <link>https://yifita.github.io/tags/</link>
-    <description>Recent content in Tags on Yifan Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://yifita.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://yifita.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://yifita.github.io/tags/</link>
+    </image>
     
     <item>
-      <title>Deep Learning</title>
+      <title>deep learning</title>
       <link>https://yifita.github.io/tags/deep-learning/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image processing</title>
+      <link>https://yifita.github.io/tags/image-processing/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>super-resolution</title>
+      <link>https://yifita.github.io/tags/super-resolution/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/super-resolution/</guid>
       <description></description>
     </item>
     
@@ -24,7 +40,6 @@
       <title>geometry processing</title>
       <link>https://yifita.github.io/tags/geometry-processing/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/tags/geometry-processing/</guid>
       <description></description>
     </item>
@@ -33,7 +48,6 @@
       <title>point cloud</title>
       <link>https://yifita.github.io/tags/point-cloud/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/tags/point-cloud/</guid>
       <description></description>
     </item>
@@ -42,26 +56,7 @@
       <title>rendering</title>
       <link>https://yifita.github.io/tags/rendering/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/tags/rendering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>super-resolution</title>
-      <link>https://yifita.github.io/tags/super-resolution/</link>
-      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://yifita.github.io/tags/super-resolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>image processing</title>
-      <link>https://yifita.github.io/tags/image-processing/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://yifita.github.io/tags/image-processing/</guid>
       <description></description>
     </item>
     
@@ -69,7 +64,6 @@
       <title>action recognition</title>
       <link>https://yifita.github.io/tags/action-recognition/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/tags/action-recognition/</guid>
       <description></description>
     </item>

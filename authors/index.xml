@@ -1,57 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Yifan Wang</title>
+    <title>Authors | Yifan Wang</title>
     <link>https://yifita.github.io/authors/</link>
-    <description>Recent content in Authors on Yifan Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://yifita.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://yifita.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://yifita.github.io/authors/</link>
+    </image>
     
     <item>
-      <title>CengizOeztireli</title>
-      <link>https://yifita.github.io/authors/cengizoeztireli/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yifita.github.io/authors/cengizoeztireli/</guid>
+      <title>Abdelaziz Djelouah</title>
+      <link>https://yifita.github.io/authors/abdelaziz-djelouah/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/abdelaziz-djelouah/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Felice Serena</title>
-      <link>https://yifita.github.io/authors/felice-serena/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yifita.github.io/authors/felice-serena/</guid>
+      <title>ChristopherSchroers</title>
+      <link>https://yifita.github.io/authors/christopherschroers/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/christopherschroers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OlgaSorkine</title>
       <link>https://yifita.github.io/authors/olgasorkine/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/authors/olgasorkine/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ShihaoWu</title>
-      <link>https://yifita.github.io/authors/shihaowu/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yifita.github.io/authors/shihaowu/</guid>
+      <title>Victor Cornillère</title>
+      <link>https://yifita.github.io/authors/victor-cornill%C3%A8re/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/victor-cornill%C3%A8re/</guid>
       <description></description>
     </item>
     
     <item>
       <title>YifanWang</title>
       <link>https://yifita.github.io/authors/yifanwang/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/authors/yifanwang/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a PhD student in the &lt;a href=&#34;https://igl.ethz.ch&#34; target=&#34;_blank&#34;&gt;Interactive Geometry Lab&lt;/a&gt; (&lt;a href=&#34;https://igl.ethz.ch&#34; target=&#34;_blank&#34;&gt;IGL&lt;/a&gt;) at &lt;a href=&#34;https://www.ethz.ch/&#34; target=&#34;_blank&#34;&gt;ETH Zurich&lt;/a&gt; supervised by &lt;a href=&#34;http://igl.ethz.ch/people/sorkine/&#34; target=&#34;_blank&#34;&gt;Prof. Olga Sorkine-Hornung&lt;/a&gt;.
 Before joining IGL, I received my Bachelor degree with distinction in &lt;a href=&#34;https://www.ei.tum.de/startseite/&#34; target=&#34;_blank&#34;&gt;Electrical Engineering and Information Technology&lt;/a&gt; (&lt;a href=&#34;https://www.ei.tum.de/startseite/&#34; target=&#34;_blank&#34;&gt;Elektrotechnik und Informationstechnik&lt;/a&gt;) at &lt;a href=&#34;https://www.tum.de/startseite/&#34; target=&#34;_blank&#34;&gt;Technische Universität München&lt;/a&gt; (&lt;a href=&#34;https://www.tum.de/startseite/&#34; target=&#34;_blank&#34;&gt;TUM&lt;/a&gt;) and completed my Master with distinction in &lt;a href=&#34;http://www.master-robotics.ethz.ch/&#34; target=&#34;_blank&#34;&gt;Robotics, System and Control&lt;/a&gt; at ETH Zurich.&lt;/p&gt;
@@ -61,10 +57,33 @@ Before joining IGL, I received my Bachelor degree with distinction in &lt;a href
     </item>
     
     <item>
+      <title>CengizOeztireli</title>
+      <link>https://yifita.github.io/authors/cengizoeztireli/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/cengizoeztireli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felice Serena</title>
+      <link>https://yifita.github.io/authors/felice-serena/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/felice-serena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShihaoWu</title>
+      <link>https://yifita.github.io/authors/shihaowu/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/shihaowu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DanielCohenor</title>
       <link>https://yifita.github.io/authors/danielcohenor/</link>
       <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/authors/danielcohenor/</guid>
       <description></description>
     </item>
@@ -73,7 +92,6 @@ Before joining IGL, I received my Bachelor degree with distinction in &lt;a href
       <title>HuiHuang</title>
       <link>https://yifita.github.io/authors/huihuang/</link>
       <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/authors/huihuang/</guid>
       <description></description>
     </item>
@@ -82,7 +100,6 @@ Before joining IGL, I received my Bachelor degree with distinction in &lt;a href
       <title>AlexanderHornung</title>
       <link>https://yifita.github.io/authors/alexanderhornung/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/authors/alexanderhornung/</guid>
       <description></description>
     </item>
@@ -91,17 +108,7 @@ Before joining IGL, I received my Bachelor degree with distinction in &lt;a href
       <title>BrianMcWilliams</title>
       <link>https://yifita.github.io/authors/brianmcwilliams/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/authors/brianmcwilliams/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ChristopherSchroers</title>
-      <link>https://yifita.github.io/authors/christopherschroers/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://yifita.github.io/authors/christopherschroers/</guid>
       <description></description>
     </item>
     
@@ -109,7 +116,6 @@ Before joining IGL, I received my Bachelor degree with distinction in &lt;a href
       <title>FedericoPerazzi</title>
       <link>https://yifita.github.io/authors/federicoperazzi/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/authors/federicoperazzi/</guid>
       <description></description>
     </item>
@@ -118,7 +124,6 @@ Before joining IGL, I received my Bachelor degree with distinction in &lt;a href
       <title>JieSong</title>
       <link>https://yifita.github.io/authors/jiesong/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/authors/jiesong/</guid>
       <description></description>
     </item>
@@ -127,7 +132,6 @@ Before joining IGL, I received my Bachelor degree with distinction in &lt;a href
       <title>Limin Wang</title>
       <link>https://yifita.github.io/authors/limin-wang/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/authors/limin-wang/</guid>
       <description></description>
     </item>
@@ -136,7 +140,6 @@ Before joining IGL, I received my Bachelor degree with distinction in &lt;a href
       <title>Luc Van Gool</title>
       <link>https://yifita.github.io/authors/luc-van-gool/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/authors/luc-van-gool/</guid>
       <description></description>
     </item>
@@ -145,7 +148,6 @@ Before joining IGL, I received my Bachelor degree with distinction in &lt;a href
       <title>OtmarHilliges</title>
       <link>https://yifita.github.io/authors/otmarhilliges/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/authors/otmarhilliges/</guid>
       <description></description>
     </item>

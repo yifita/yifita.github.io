@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Yifan Wang</title>
+    <title>Projects | Yifan Wang</title>
     <link>https://yifita.github.io/project/</link>
-    <description>Recent content in Projects on Yifan Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://yifita.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://yifita.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://yifita.github.io/project/</link>
+    </image>
     
     <item>
       <title>Point-based geometry processing</title>
       <link>https://yifita.github.io/project/point-geometry/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/project/point-geometry/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Single-Image Super-Resolution</title>
       <link>https://yifita.github.io/project/single-image-super-resolution/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/project/single-image-super-resolution/</guid>
       <description></description>
     </item>

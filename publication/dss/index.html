@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.3.1">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
 
   
 
@@ -35,8 +35,6 @@
 
   
 
-
-  
 
   
   
@@ -68,13 +66,14 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.da138b8acd120ffcfcc582910133ce2a.css">
+  <link rel="stylesheet" href="/css/academic.min.64e98325f2fafb1cb174a303e7ed68fe.css">
 
   
 
@@ -84,8 +83,8 @@
 
   
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://yifita.github.io/publication/dss/">
@@ -96,18 +95,85 @@
   
     
   
+  
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Yifan Wang">
   <meta property="og:url" content="https://yifita.github.io/publication/dss/">
   <meta property="og:title" content="Differentiable Surface Splatting for Point-based Geometry Processing | Yifan Wang">
   <meta property="og:description" content="We propose a high-fidelity differentiable renderer for point clouds. We demonstrate how the proposed technique can be used to leverage contemporary deep neural networks to achieve state-of-the-art results in challenging geometry processing tasks."><meta property="og:image" content="https://yifita.github.io/publication/dss/featured.png">
-  <meta property="og:locale" content="en-us">
+  <meta property="twitter:image" content="https://yifita.github.io/publication/dss/featured.png"><meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-07-29T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2019-07-29T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2019-07-29T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2019-07-29T00:00:00&#43;00:00">
+
   
+
+
+    
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://yifita.github.io/publication/dss/"
+  },
+  "headline": "Differentiable Surface Splatting for Point-based Geometry Processing",
+  
+  "image": [
+    "https://yifita.github.io/publication/dss/featured.png"
+  ],
+  
+  "datePublished": "2019-07-29T00:00:00Z",
+  "dateModified": "2019-07-29T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Yifan Wang"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Yifan Wang",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://yifita.github.io/img/icon-512.png"
+    }
+  },
+  "description": "We propose a high-fidelity differentiable renderer for point clouds. We demonstrate how the proposed technique can be used to leverage contemporary deep neural networks to achieve state-of-the-art results in challenging geometry processing tasks."
+}
+</script>
+
+  
+
+  
+
 
   
 
@@ -122,8 +188,7 @@
 
 </head>
 
-
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -141,7 +206,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -158,7 +223,7 @@
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
@@ -330,7 +395,7 @@
 </nav>
 
 
-  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="pub">
 
   
 
@@ -346,26 +411,19 @@
 
 
 
-<div class="article-header d-xl-none">
-  <div class="featured-image" style="background-image: url('/publication/dss/featured_hu394cf9447844d21f9c1beaa9d1c50d11_3113091_800x0_resize_lanczos_2.png');"></div>
-  <span class="article-header-caption">synthesis of the standford bunny from a sphere via inverse rendering</span>
-</div>
-
-
-<div class="container-fluid split-header d-none d-xl-block">
-  <div class="row">
-    <div class="col-6">
-      <div class="split-header-content">
-        <h1 itemprop="name">Differentiable Surface Splatting for Point-based Geometry Processing</h1>
-
-        
-
-        
 
 
 
-<meta content="2019-07-29 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2019-07-29 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-container pt-3">
+  <h1>Differentiable Surface Splatting for Point-based Geometry Processing</h1>
+
+  
+
+  
+  
+
+
 
 <div class="article-metadata">
 
@@ -380,13 +438,19 @@
 
 
 
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://yifita.github.io/">Yifan Wang</a></span>,<span itemprop="author name" itemtype="http://schema.org/Person"> Felice Serena</span>,
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://yifita.github.io/">Yifan Wang</a></span>
+,<span itemprop="author name" itemtype="http://schema.org/Person"> Felice Serena</span>
+,
 
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="http://shihaowu.net">Shihao Wu</a></span>,
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="http://shihaowu.net">Shihao Wu</a></span>
+,
 
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://people.inf.ethz.ch/~cengizo/">Cengiz Öztireli</a></span>,
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://people.inf.ethz.ch/~cengizo/">Cengiz Öztireli</a></span>
+,
 
 <span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://igl.ethz.ch/people/sorkine/">Olga Sorkine-Hornung</a></span>
+
+
 
   </div>
   
@@ -398,7 +462,7 @@
     
       
     
-    <time>July 2019</time>
+    July 2019
   </span>
   
 
@@ -408,263 +472,94 @@
 
   
   
-
-  
   
 
   
-
-</div>
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
   
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
 
   
     
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://igl.ethz.ch/projects/differentiable-surface-splatting/DSS-2019-SA-Yifan-etal.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/dss/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="http://github.com/yifita/DSS" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="/project/point-geometry/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://youtu.be/Q8iTkmIky0o" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://igl.ethz.ch/projects/differentiable-surface-splatting/" target="_blank" rel="noopener">
-    
-    IGL Project Page
-  </a>
-
-
-</div>
-
-
-
-        
 <div class="share-box" aria-hidden="true">
   <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Differentiable%20Surface%20Splatting%20for%20Point-based%20Geometry%20Processing&amp;url=https%3a%2f%2fyifita.github.io%2fpublication%2fdss%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fyifita.github.io%2fpublication%2fdss%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fyifita.github.io%2fpublication%2fdss%2f&amp;title=Differentiable%20Surface%20Splatting%20for%20Point-based%20Geometry%20Processing"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fyifita.github.io%2fpublication%2fdss%2f&amp;title=Differentiable%20Surface%20Splatting%20for%20Point-based%20Geometry%20Processing"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=Differentiable%20Surface%20Splatting%20for%20Point-based%20Geometry%20Processing&amp;body=https%3a%2f%2fyifita.github.io%2fpublication%2fdss%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-
-
-      </div>
-    </div>
-    <div class="col-6">
-      <div class="split-header-image">
-        <img src="/publication/dss/featured_hu394cf9447844d21f9c1beaa9d1c50d11_3113091_680x400_fit_q90_lanczos_2.png" itemprop="image" alt="">
-        <span
-          class="article-header-caption">synthesis of the standford bunny from a sphere via inverse rendering</span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="article-container d-xl-none">
-  <h1 itemprop="name">Differentiable Surface Splatting for Point-based Geometry Processing</h1>
-
-  
-
-  
-
-
-
-<meta content="2019-07-29 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2019-07-29 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-
-
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://yifita.github.io/">Yifan Wang</a></span>,<span itemprop="author name" itemtype="http://schema.org/Person"> Felice Serena</span>,
-
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="http://shihaowu.net">Shihao Wu</a></span>,
-
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://people.inf.ethz.ch/~cengizo/">Cengiz Öztireli</a></span>,
-
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://igl.ethz.ch/people/sorkine/">Olga Sorkine-Hornung</a></span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
     
       
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://yifita.github.io/publication/dss/&amp;text=Differentiable%20Surface%20Splatting%20for%20Point-based%20Geometry%20Processing" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
-    <time>July 2019</time>
-  </span>
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-
-  
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://yifita.github.io/publication/dss/&amp;t=Differentiable%20Surface%20Splatting%20for%20Point-based%20Geometry%20Processing" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
     
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Differentiable%20Surface%20Splatting%20for%20Point-based%20Geometry%20Processing&amp;url=https%3a%2f%2fyifita.github.io%2fpublication%2fdss%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fyifita.github.io%2fpublication%2fdss%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fyifita.github.io%2fpublication%2fdss%2f&amp;title=Differentiable%20Surface%20Splatting%20for%20Point-based%20Geometry%20Processing"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fyifita.github.io%2fpublication%2fdss%2f&amp;title=Differentiable%20Surface%20Splatting%20for%20Point-based%20Geometry%20Processing"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=Differentiable%20Surface%20Splatting%20for%20Point-based%20Geometry%20Processing&amp;body=https%3a%2f%2fyifita.github.io%2fpublication%2fdss%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Differentiable%20Surface%20Splatting%20for%20Point-based%20Geometry%20Processing&amp;body=https://yifita.github.io/publication/dss/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://yifita.github.io/publication/dss/&amp;title=Differentiable%20Surface%20Splatting%20for%20Point-based%20Geometry%20Processing" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Differentiable%20Surface%20Splatting%20for%20Point-based%20Geometry%20Processing%20https://yifita.github.io/publication/dss/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://yifita.github.io/publication/dss/&amp;title=Differentiable%20Surface%20Splatting%20for%20Point-based%20Geometry%20Processing" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
   </ul>
 </div>
 
@@ -772,14 +667,16 @@
 </div>
 
 
+  
 </div>
+
 
 
   <div class="article-container">
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">We propose Differentiable Surface Splatting (DSS), a high-fidelity differentiable renderer for point clouds. Gradients for point locations and normals are carefully designed to handle discontinuities of the rendering function. Regularization terms are introduced to ensure uniform distribution of the points on the underlying surface. We demonstrate applications of DSS to inverse rendering for geometry synthesis and denoising, where large scale topological changes, as well as small scale detail modifications, are accurately and robustly handled without requiring explicit connectivity, outperforming state-of-the-art techniques.</p>
+    <p class="pub-abstract">We propose Differentiable Surface Splatting (DSS), a high-fidelity differentiable renderer for point clouds. Gradients for point locations and normals are carefully designed to handle discontinuities of the rendering function. Regularization terms are introduced to ensure uniform distribution of the points on the underlying surface. We demonstrate applications of DSS to inverse rendering for geometry synthesis and denoising, where large scale topological changes, as well as small scale detail modifications, are accurately and robustly handled without requiring explicit connectivity, outperforming state-of-the-art techniques.</p>
     
 
     
@@ -821,9 +718,11 @@
 
     <div class="article-style">
 
+<p><img src="teaser.png" alt="teaser" /></p>
+
 <h3 id="shape-synthesis">Shape Synthesis</h3>
 
-<p>We can synthesize create shape from multiple 2D images. This process is not constrained by topology changes.
+<p>We can synthesize shapes from multiple 2D images. This process is not constrained by topology changes.
 <img src="yoga.png" alt="synthesis" /></p>
 
 <h3 id="point-cloud-filering">Point Cloud Filering</h3>
@@ -846,7 +745,7 @@
 
 <h3 id="acknowledgement">Acknowledgement</h3>
 
-<p>We would like to thank Federico Danieli for the insightful discussion, Phillipp Herholz for the timely feedack, Romann Weber for the video voice-over and Derek Liu for the help during the rebuttal.
+<p>We would like to thank Federico Danieli for the insightful discussion, Philipp Herholz for the timely feedack, Romann Weber for the video voice-over and Derek Liu for the help during the rebuttal.
 This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.</p>
 </div>
 
@@ -866,6 +765,9 @@ This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.</p>
 
 
 
+    
+
+
   </div>
 </div>
 
@@ -874,9 +776,6 @@ This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.</p>
       
 
     
-    
-    
-    <script src="/js/mathjax-config.js"></script>
     
 
     
@@ -893,14 +792,8 @@ This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.</p>
 
       
       
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
-      
     
 
-    
-    
-
-    
     
     
 
@@ -954,6 +847,9 @@ This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.</p>
 
     
     
+
+    
+    
     
     
     
@@ -966,7 +862,7 @@ This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.</p>
     
     
     
-    <script src="/js/academic.min.9ef1b53ee2bde6c7f33b150c6ba4d452.js"></script>
+    <script src="/js/academic.min.f92d7215d2132cd354f657f0bc9cc542.js"></script>
 
     
 

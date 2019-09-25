@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.3.1">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
 
   
 
@@ -35,8 +35,6 @@
 
   
 
-
-  
 
   
   
@@ -68,13 +66,14 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.da138b8acd120ffcfcc582910133ce2a.css">
+  <link rel="stylesheet" href="/css/academic.min.64e98325f2fafb1cb174a303e7ed68fe.css">
 
   
 
@@ -84,8 +83,8 @@
 
   
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://yifita.github.io/publication/action_srcnn/">
@@ -96,18 +95,85 @@
   
     
   
+  
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Yifan Wang">
   <meta property="og:url" content="https://yifita.github.io/publication/action_srcnn/">
   <meta property="og:title" content="Two-Stream SR-CNNs for Action Recognition in Videos | Yifan Wang">
   <meta property="og:description" content="We propose a new deep architecture by incorporating object/human detection results into the framework for action recognition, called two-stream semantic region based CNNs (SR-CNNs). We perform experiments on UCF101 dataset and demonstrate its superior performance to the original two-stream CNNs. "><meta property="og:image" content="https://yifita.github.io/publication/action_srcnn/featured.jpg">
-  <meta property="og:locale" content="en-us">
+  <meta property="twitter:image" content="https://yifita.github.io/publication/action_srcnn/featured.jpg"><meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2016-07-01T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2016-07-01T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2016-07-01T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2016-07-01T00:00:00&#43;00:00">
+
   
+
+
+    
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://yifita.github.io/publication/action_srcnn/"
+  },
+  "headline": "Two-Stream SR-CNNs for Action Recognition in Videos",
+  
+  "image": [
+    "https://yifita.github.io/publication/action_srcnn/featured.jpg"
+  ],
+  
+  "datePublished": "2016-07-01T00:00:00Z",
+  "dateModified": "2016-07-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Yifan Wang"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Yifan Wang",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://yifita.github.io/img/icon-512.png"
+    }
+  },
+  "description": "We propose a new deep architecture by incorporating object/human detection results into the framework for action recognition, called two-stream semantic region based CNNs (SR-CNNs). We perform experiments on UCF101 dataset and demonstrate its superior performance to the original two-stream CNNs. "
+}
+</script>
+
+  
+
+  
+
 
   
 
@@ -122,8 +188,7 @@
 
 </head>
 
-
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -141,7 +206,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -158,7 +223,7 @@
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
@@ -330,7 +395,7 @@
 </nav>
 
 
-  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="pub">
 
   
 
@@ -351,7 +416,7 @@
 
 
 <div class="article-container pt-3">
-  <h1 itemprop="name">Two-Stream SR-CNNs for Action Recognition in Videos</h1>
+  <h1>Two-Stream SR-CNNs for Action Recognition in Videos</h1>
 
   
 
@@ -359,9 +424,6 @@
   
 
 
-
-<meta content="2016-07-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2016-07-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -376,11 +438,17 @@
 
 
 
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://yifita.github.io/">Yifan Wang</a></span>,
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://yifita.github.io/">Yifan Wang</a></span>
+,
 
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://ait.ethz.ch/people/song/">Jie Song</a></span>,<span itemprop="author name" itemtype="http://schema.org/Person"> Limin Wang</span>,<span itemprop="author name" itemtype="http://schema.org/Person"> Luc Van Gool</span>,
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://ait.ethz.ch/people/song/">Jie Song</a></span>
+,<span itemprop="author name" itemtype="http://schema.org/Person"> Limin Wang</span>
+,<span itemprop="author name" itemtype="http://schema.org/Person"> Luc Van Gool</span>
+,
 
 <span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://ait.ethz.ch/people/hilliges/">Otmar Hilliges</a></span>
+
+
 
   </div>
   
@@ -392,7 +460,7 @@
     
       
     
-    <time>July 2016</time>
+    July 2016
   </span>
   
 
@@ -400,6 +468,7 @@
 
   
 
+  
   
   
 
@@ -410,40 +479,85 @@
     
 <div class="share-box" aria-hidden="true">
   <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Two-Stream%20SR-CNNs%20for%20Action%20Recognition%20in%20Videos&amp;url=https%3a%2f%2fyifita.github.io%2fpublication%2faction_srcnn%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fyifita.github.io%2fpublication%2faction_srcnn%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fyifita.github.io%2fpublication%2faction_srcnn%2f&amp;title=Two-Stream%20SR-CNNs%20for%20Action%20Recognition%20in%20Videos"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fyifita.github.io%2fpublication%2faction_srcnn%2f&amp;title=Two-Stream%20SR-CNNs%20for%20Action%20Recognition%20in%20Videos"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=Two-Stream%20SR-CNNs%20for%20Action%20Recognition%20in%20Videos&amp;body=https%3a%2f%2fyifita.github.io%2fpublication%2faction_srcnn%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://yifita.github.io/publication/action_srcnn/&amp;text=Two-Stream%20SR-CNNs%20for%20Action%20Recognition%20in%20Videos" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://yifita.github.io/publication/action_srcnn/&amp;t=Two-Stream%20SR-CNNs%20for%20Action%20Recognition%20in%20Videos" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Two-Stream%20SR-CNNs%20for%20Action%20Recognition%20in%20Videos&amp;body=https://yifita.github.io/publication/action_srcnn/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://yifita.github.io/publication/action_srcnn/&amp;title=Two-Stream%20SR-CNNs%20for%20Action%20Recognition%20in%20Videos" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Two-Stream%20SR-CNNs%20for%20Action%20Recognition%20in%20Videos%20https://yifita.github.io/publication/action_srcnn/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://yifita.github.io/publication/action_srcnn/&amp;title=Two-Stream%20SR-CNNs%20for%20Action%20Recognition%20in%20Videos" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
   </ul>
 </div>
 
@@ -533,11 +647,12 @@
 </div>
 
 
+
   <div class="article-container">
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">We propose a new deep architecture by incorporating object/human detection results into the framework for action recognition, called two-stream semantic region based CNNs (SR-CNNs). We perform experiments on UCF101 dataset and demonstrate its superior performance to the original two-stream CNNs.</p>
+    <p class="pub-abstract">We propose a new deep architecture by incorporating object/human detection results into the framework for action recognition, called two-stream semantic region based CNNs (SR-CNNs). We perform experiments on UCF101 dataset and demonstrate its superior performance to the original two-stream CNNs.</p>
     
 
     
@@ -594,6 +709,9 @@
 
 
 
+    
+
+
   </div>
 </div>
 
@@ -620,10 +738,6 @@
       
     
 
-    
-    
-
-    
     
     
 
@@ -677,6 +791,9 @@
 
     
     
+
+    
+    
     
     
     
@@ -689,7 +806,7 @@
     
     
     
-    <script src="/js/academic.min.9ef1b53ee2bde6c7f33b150c6ba4d452.js"></script>
+    <script src="/js/academic.min.f92d7215d2132cd354f657f0bc9cc542.js"></script>
 
     
 

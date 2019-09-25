@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.3.1">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
 
   
 
@@ -35,8 +35,6 @@
 
   
 
-
-  
 
   
   
@@ -68,13 +66,14 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.da138b8acd120ffcfcc582910133ce2a.css">
+  <link rel="stylesheet" href="/css/academic.min.64e98325f2fafb1cb174a303e7ed68fe.css">
 
   
 
@@ -84,8 +83,8 @@
 
   
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://yifita.github.io/publication/prosr/">
@@ -96,18 +95,85 @@
   
     
   
+  
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Yifan Wang">
   <meta property="og:url" content="https://yifita.github.io/publication/prosr/">
   <meta property="og:title" content="A Fully Progressive Approach to Single-Image Super-Resolution | Yifan Wang">
   <meta property="og:description" content="We set a new benchmark for single-image super-resolution by exploiting progressiveness both in architecture and training. The proposed multi-scale models, **ProSR** and **ProSRGan**, improve the reconstruction quality in terms of PSNR and visual quality respectively. ProSR is one of the winning teams."><meta property="og:image" content="https://yifita.github.io/publication/prosr/featured.jpg">
-  <meta property="og:locale" content="en-us">
+  <meta property="twitter:image" content="https://yifita.github.io/publication/prosr/featured.jpg"><meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2017-01-01T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2017-01-01T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2018-04-16T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2018-04-16T00:00:00&#43;00:00">
+
   
+
+
+    
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://yifita.github.io/publication/prosr/"
+  },
+  "headline": "A Fully Progressive Approach to Single-Image Super-Resolution",
+  
+  "image": [
+    "https://yifita.github.io/publication/prosr/featured.jpg"
+  ],
+  
+  "datePublished": "2017-01-01T00:00:00Z",
+  "dateModified": "2018-04-16T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Yifan Wang"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Yifan Wang",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://yifita.github.io/img/icon-512.png"
+    }
+  },
+  "description": "We set a new benchmark for single-image super-resolution by exploiting progressiveness both in architecture and training. The proposed multi-scale models, **ProSR** and **ProSRGan**, improve the reconstruction quality in terms of PSNR and visual quality respectively. ProSR is one of the winning teams."
+}
+</script>
+
+  
+
+  
+
 
   
 
@@ -122,8 +188,7 @@
 
 </head>
 
-
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -141,7 +206,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -158,7 +223,7 @@
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
@@ -330,7 +395,7 @@
 </nav>
 
 
-  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="pub">
 
   
 
@@ -346,26 +411,29 @@
 
 
 
-<div class="article-header d-xl-none">
-  <div class="featured-image" style="background-image: url('/publication/prosr/featured_hudd65b0d8bc79a247d5edea46ae6e5186_169551_800x0_resize_q90_lanczos.jpg');"></div>
-  <span class="article-header-caption">8$\times$ upsampling results</span>
-</div>
-
-
-<div class="container-fluid split-header d-none d-xl-block">
-  <div class="row">
-    <div class="col-6">
-      <div class="split-header-content">
-        <h1 itemprop="name">A Fully Progressive Approach to Single-Image Super-Resolution</h1>
-
-        
-
-        
 
 
 
-<meta content="2018-04-16 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2018-04-16 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>A Fully Progressive Approach to Single-Image Super-Resolution</h1>
+
+  
+
+  
+
+
 
 <div class="article-metadata">
 
@@ -380,17 +448,24 @@
 
 
 
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://yifita.github.io/">Yifan Wang</a></span>,
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://yifita.github.io/">Yifan Wang</a></span>
+,
 
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://fperazzi.github.io/">Federico Perazzi</a></span>,
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://fperazzi.github.io/">Federico Perazzi</a></span>
+,
 
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://sites.google.com/view/mcbrian/">Brian McWilliams</a></span>,
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://sites.google.com/view/mcbrian/">Brian McWilliams</a></span>
+,
 
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="http://www.ahornung.net/">Alexander Sorkine-Hornung</a></span>,
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="http://www.ahornung.net/">Alexander Sorkine-Hornung</a></span>
+,
 
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://igl.ethz.ch/people/sorkine/">Olga Sorkine-Hornung</a></span>,
+<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://igl.ethz.ch/people/sorkine/">Olga Sorkine-Hornung</a></span>
+,
 
 <span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://la.disneyresearch.com/people/christopher-schroers/">Christopher Schroers</a></span>
+
+
 
   </div>
   
@@ -402,7 +477,7 @@
     
       
     
-    <time>April 2018</time>
+    April 2018
   </span>
   
 
@@ -411,235 +486,6 @@
   
 
   
-  
-
-  
-  
-
-  
-
-</div>
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w13/Wang_A_Fully_Progressive_CVPR_2018_paper.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/prosr/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="http://github.com/fperazzi/prosr" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="http://github.com/fperazzi/prosr" target="_blank" rel="noopener">
-  Dataset
-</a>
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="/project/single-image-super-resolution/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://youtu.be/HvH0b9K_Iro" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-    
-      
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="/#Downloads" >
-    
-    Downloads
-  </a>
-
-
-</div>
-
-
-
-        
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution&amp;url=https%3a%2f%2fyifita.github.io%2fpublication%2fprosr%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fyifita.github.io%2fpublication%2fprosr%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fyifita.github.io%2fpublication%2fprosr%2f&amp;title=A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fyifita.github.io%2fpublication%2fprosr%2f&amp;title=A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution&amp;body=https%3a%2f%2fyifita.github.io%2fpublication%2fprosr%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-
-
-      </div>
-    </div>
-    <div class="col-6">
-      <div class="split-header-image">
-        <img src="/publication/prosr/featured_hudd65b0d8bc79a247d5edea46ae6e5186_169551_680x400_fit_q90_lanczos.jpg" itemprop="image" alt="">
-        <span
-          class="article-header-caption">8$\times$ upsampling results</span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="article-container d-xl-none">
-  <h1 itemprop="name">A Fully Progressive Approach to Single-Image Super-Resolution</h1>
-
-  
-
-  
-
-
-
-<meta content="2018-04-16 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2018-04-16 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-
-
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://yifita.github.io/">Yifan Wang</a></span>,
-
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://fperazzi.github.io/">Federico Perazzi</a></span>,
-
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://sites.google.com/view/mcbrian/">Brian McWilliams</a></span>,
-
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="http://www.ahornung.net/">Alexander Sorkine-Hornung</a></span>,
-
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://igl.ethz.ch/people/sorkine/">Olga Sorkine-Hornung</a></span>,
-
-<span itemprop="author name" itemtype="http://schema.org/Person"><a href="https://la.disneyresearch.com/people/christopher-schroers/">Christopher Schroers</a></span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    <time>April 2018</time>
-  </span>
-  
-
-  
-
-  
-
   
   
 
@@ -650,40 +496,85 @@
     
 <div class="share-box" aria-hidden="true">
   <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution&amp;url=https%3a%2f%2fyifita.github.io%2fpublication%2fprosr%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fyifita.github.io%2fpublication%2fprosr%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fyifita.github.io%2fpublication%2fprosr%2f&amp;title=A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fyifita.github.io%2fpublication%2fprosr%2f&amp;title=A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution&amp;body=https%3a%2f%2fyifita.github.io%2fpublication%2fprosr%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://yifita.github.io/publication/prosr/&amp;text=A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://yifita.github.io/publication/prosr/&amp;t=A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution&amp;body=https://yifita.github.io/publication/prosr/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://yifita.github.io/publication/prosr/&amp;title=A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution%20https://yifita.github.io/publication/prosr/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://yifita.github.io/publication/prosr/&amp;title=A%20Fully%20Progressive%20Approach%20to%20Single-Image%20Super-Resolution" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
   </ul>
 </div>
 
@@ -803,13 +694,22 @@
 
 
 </div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 461px;">
+  <div style="position: relative">
+    <img src="/publication/prosr/featured_hudd65b0d8bc79a247d5edea46ae6e5186_169551_720x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
+    <span class="article-header-caption">8$\times$ upsampling results</span>
+  </div>
+</div>
+
 
 
   <div class="article-container">
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Recent deep learning approaches to single image superresolution have achieved impressive results in terms of traditional error measures and perceptual quality. However, in each case it remains challenging to achieve high quality results for large upsampling factors. To this end, we propose a method (ProSR) that is progressive both in architecture and training. The network upsamples an image in intermediate steps, while the learning process is organized from easy to hard, as is done in curriculum learning. To obtain more photorealistic results, we design a generative adversarial network (GAN), named ProGanSR, that follows the same progressive multi-scale design principle. This not only allows to scale well to high upsampling factors (e.g., 8×) but constitutes a principled multi-scale approach that increases the reconstruction quality for all upsampling factors simultaneously. In particular ProSR ranks 2nd in terms of SSIM and 4th in terms of PSNR in the <a href="http://www.vision.ee.ethz.ch/ntire18/" target="_blank">NTIRE2018 SISR challenge</a>. Compared to the top-ranking team, our model is marginally lower, but runs 5 times faster.</p>
+    <p class="pub-abstract">Recent deep learning approaches to single image superresolution have achieved impressive results in terms of traditional error measures and perceptual quality. However, in each case it remains challenging to achieve high quality results for large upsampling factors. To this end, we propose a method (ProSR) that is progressive both in architecture and training. The network upsamples an image in intermediate steps, while the learning process is organized from easy to hard, as is done in curriculum learning. To obtain more photorealistic results, we design a generative adversarial network (GAN), named ProGanSR, that follows the same progressive multi-scale design principle. This not only allows to scale well to high upsampling factors (e.g., 8×) but constitutes a principled multi-scale approach that increases the reconstruction quality for all upsampling factors simultaneously. In particular ProSR ranks 2nd in terms of SSIM and 4th in terms of PSNR in the <a href="http://www.vision.ee.ethz.ch/ntire18/" target="_blank">NTIRE2018 SISR challenge</a>. Compared to the top-ranking team, our model is marginally lower, but runs 5 times faster.</p>
     
 
     
@@ -898,6 +798,9 @@ Here&rsquo;s the video that talks about our work.
 
 
 
+    
+
+
   </div>
 </div>
 
@@ -906,9 +809,6 @@ Here&rsquo;s the video that talks about our work.
       
 
     
-    
-    
-    <script src="/js/mathjax-config.js"></script>
     
 
     
@@ -925,14 +825,8 @@ Here&rsquo;s the video that talks about our work.
 
       
       
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
-      
     
 
-    
-    
-
-    
     
     
 
@@ -986,6 +880,9 @@ Here&rsquo;s the video that talks about our work.
 
     
     
+
+    
+    
     
     
     
@@ -998,7 +895,7 @@ Here&rsquo;s the video that talks about our work.
     
     
     
-    <script src="/js/academic.min.9ef1b53ee2bde6c7f33b150c6ba4d452.js"></script>
+    <script src="/js/academic.min.f92d7215d2132cd354f657f0bc9cc542.js"></script>
 
     
 

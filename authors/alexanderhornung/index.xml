@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AlexanderHornung on Yifan Wang</title>
+    <title>AlexanderHornung | Yifan Wang</title>
     <link>https://yifita.github.io/authors/alexanderhornung/</link>
-    <description>Recent content in AlexanderHornung on Yifan Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://yifita.github.io/authors/alexanderhornung/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://yifita.github.io/authors/alexanderhornung/index.xml" rel="self" type="application/rss+xml" />
+    <description>AlexanderHornung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/img/icon-192.png</url>
+      <title>AlexanderHornung</title>
+      <link>https://yifita.github.io/authors/alexanderhornung/</link>
+    </image>
     
     <item>
       <title>A Fully Progressive Approach to Single-Image Super-Resolution</title>
       <link>https://yifita.github.io/publication/prosr/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://yifita.github.io/publication/prosr/</guid>
       <description>
 
