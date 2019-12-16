@@ -5,12 +5,25 @@
     <link>https://yifita.github.io/authors/yifanwang/</link>
       <atom:link href="https://yifita.github.io/authors/yifanwang/index.xml" rel="self" type="application/rss+xml" />
     <description>YifanWang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yifita.github.io/img/icon-192.png</url>
       <title>YifanWang</title>
       <link>https://yifita.github.io/authors/yifanwang/</link>
     </image>
+    
+    <item>
+      <title>Neural Cages for Detail-Preserving 3D Deformations</title>
+      <link>https://yifita.github.io/publication/deep_cage/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/publication/deep_cage/</guid>
+      <description>
+
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;TBA&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blind Image Super-Resolution with Spatially Variant Degradations</title>
@@ -72,7 +85,7 @@ This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.&lt;
     <item>
       <title>Patch-base progressive 3D Point Set Upsampling</title>
       <link>https://yifita.github.io/publication/3pu/</link>
-      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/3pu/</guid>
       <description>
 
@@ -225,7 +238,7 @@ Here&amp;rsquo;s the video that talks about our work.
     <item>
       <title>YifanWang</title>
       <link>https://yifita.github.io/authors/yifanwang/</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/authors/yifanwang/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a third-year PhD student in the &lt;a href=&#34;https://igl.ethz.ch&#34; target=&#34;_blank&#34;&gt;Interactive Geometry Lab&lt;/a&gt; (&lt;a href=&#34;https://igl.ethz.ch&#34; target=&#34;_blank&#34;&gt;IGL&lt;/a&gt;) at &lt;a href=&#34;https://www.ethz.ch/&#34; target=&#34;_blank&#34;&gt;ETH Zurich&lt;/a&gt; supervised by &lt;a href=&#34;http://igl.ethz.ch/people/sorkine/&#34; target=&#34;_blank&#34;&gt;Prof. Olga Sorkine-Hornung&lt;/a&gt;.
 My area of research lies in applying machine learning techniques, especially deep learning, to challenging image and geometry processing problems.

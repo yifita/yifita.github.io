@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SidChaudhuri | Yifan Wang - ETH Zurich</title>
+    <link>https://yifita.github.io/authors/sidchaudhuri/</link>
+      <atom:link href="https://yifita.github.io/authors/sidchaudhuri/index.xml" rel="self" type="application/rss+xml" />
+    <description>SidChaudhuri</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/img/icon-192.png</url>
+      <title>SidChaudhuri</title>
+      <link>https://yifita.github.io/authors/sidchaudhuri/</link>
+    </image>
+    
+    <item>
+      <title>Neural Cages for Detail-Preserving 3D Deformations</title>
+      <link>https://yifita.github.io/publication/deep_cage/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/publication/deep_cage/</guid>
+      <description>
+
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;TBA&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

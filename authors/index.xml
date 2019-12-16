@@ -5,12 +5,58 @@
     <link>https://yifita.github.io/authors/</link>
       <atom:link href="https://yifita.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yifita.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://yifita.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>NoamAigerman</title>
+      <link>https://yifita.github.io/authors/noamaigerman/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/noamaigerman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OlgaSorkine</title>
+      <link>https://yifita.github.io/authors/olgasorkine/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/olgasorkine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SidChaudhuri</title>
+      <link>https://yifita.github.io/authors/sidchaudhuri/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/sidchaudhuri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VovaKim</title>
+      <link>https://yifita.github.io/authors/vovakim/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/vovakim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YifanWang</title>
+      <link>https://yifita.github.io/authors/yifanwang/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/authors/yifanwang/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a third-year PhD student in the &lt;a href=&#34;https://igl.ethz.ch&#34; target=&#34;_blank&#34;&gt;Interactive Geometry Lab&lt;/a&gt; (&lt;a href=&#34;https://igl.ethz.ch&#34; target=&#34;_blank&#34;&gt;IGL&lt;/a&gt;) at &lt;a href=&#34;https://www.ethz.ch/&#34; target=&#34;_blank&#34;&gt;ETH Zurich&lt;/a&gt; supervised by &lt;a href=&#34;http://igl.ethz.ch/people/sorkine/&#34; target=&#34;_blank&#34;&gt;Prof. Olga Sorkine-Hornung&lt;/a&gt;.
+My area of research lies in applying machine learning techniques, especially deep learning, to challenging image and geometry processing problems.
+During my PhD study, I have had the honour to work in the Imaging and Video group at Disney Research and the Creative Intelligence Lab at Adobe Research in Seattle.&lt;/p&gt;
+
+&lt;p&gt;Born and raised in China, I moved to Europe for study almost 10 years ago.
+I received my Bachelor degree with distinction in &lt;a href=&#34;https://www.ei.tum.de/startseite/&#34; target=&#34;_blank&#34;&gt;Electrical Engineering and Information Technology&lt;/a&gt; (&lt;a href=&#34;https://www.ei.tum.de/startseite/&#34; target=&#34;_blank&#34;&gt;Elektrotechnik und Informationstechnik&lt;/a&gt;) at &lt;a href=&#34;https://www.tum.de/startseite/&#34; target=&#34;_blank&#34;&gt;Technische Universität München&lt;/a&gt; (&lt;a href=&#34;https://www.tum.de/startseite/&#34; target=&#34;_blank&#34;&gt;TUM&lt;/a&gt;) and completed my Master with distinction in &lt;a href=&#34;http://www.master-robotics.ethz.ch/&#34; target=&#34;_blank&#34;&gt;Robotics, Systems and Control&lt;/a&gt; at ETH Zurich.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AbdelazizDjelouah</title>
@@ -29,33 +75,11 @@
     </item>
     
     <item>
-      <title>OlgaSorkine</title>
-      <link>https://yifita.github.io/authors/olgasorkine/</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://yifita.github.io/authors/olgasorkine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Victor Cornillère</title>
       <link>https://yifita.github.io/authors/victor-cornill%C3%A8re/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/authors/victor-cornill%C3%A8re/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>YifanWang</title>
-      <link>https://yifita.github.io/authors/yifanwang/</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://yifita.github.io/authors/yifanwang/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a third-year PhD student in the &lt;a href=&#34;https://igl.ethz.ch&#34; target=&#34;_blank&#34;&gt;Interactive Geometry Lab&lt;/a&gt; (&lt;a href=&#34;https://igl.ethz.ch&#34; target=&#34;_blank&#34;&gt;IGL&lt;/a&gt;) at &lt;a href=&#34;https://www.ethz.ch/&#34; target=&#34;_blank&#34;&gt;ETH Zurich&lt;/a&gt; supervised by &lt;a href=&#34;http://igl.ethz.ch/people/sorkine/&#34; target=&#34;_blank&#34;&gt;Prof. Olga Sorkine-Hornung&lt;/a&gt;.
-My area of research lies in applying machine learning techniques, especially deep learning, to challenging image and geometry processing problems.
-During my PhD study, I have had the honour to work in the Imaging and Video group at Disney Research and the Creative Intelligence Lab at Adobe Research in Seattle.&lt;/p&gt;
-
-&lt;p&gt;Born and raised in China, I moved to Europe for study almost 10 years ago.
-I received my Bachelor degree with distinction in &lt;a href=&#34;https://www.ei.tum.de/startseite/&#34; target=&#34;_blank&#34;&gt;Electrical Engineering and Information Technology&lt;/a&gt; (&lt;a href=&#34;https://www.ei.tum.de/startseite/&#34; target=&#34;_blank&#34;&gt;Elektrotechnik und Informationstechnik&lt;/a&gt;) at &lt;a href=&#34;https://www.tum.de/startseite/&#34; target=&#34;_blank&#34;&gt;Technische Universität München&lt;/a&gt; (&lt;a href=&#34;https://www.tum.de/startseite/&#34; target=&#34;_blank&#34;&gt;TUM&lt;/a&gt;) and completed my Master with distinction in &lt;a href=&#34;http://www.master-robotics.ethz.ch/&#34; target=&#34;_blank&#34;&gt;Robotics, Systems and Control&lt;/a&gt; at ETH Zurich.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -85,7 +109,7 @@ I received my Bachelor degree with distinction in &lt;a href=&#34;https://www.ei
     <item>
       <title>DanielCohenor</title>
       <link>https://yifita.github.io/authors/danielcohenor/</link>
-      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/authors/danielcohenor/</guid>
       <description></description>
     </item>
@@ -93,7 +117,7 @@ I received my Bachelor degree with distinction in &lt;a href=&#34;https://www.ei
     <item>
       <title>HuiHuang</title>
       <link>https://yifita.github.io/authors/huihuang/</link>
-      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/authors/huihuang/</guid>
       <description></description>
     </item>
