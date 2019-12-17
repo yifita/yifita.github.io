@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>3D</title>
+      <link>https://yifita.github.io/tags/3d/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>deep learning</title>
       <link>https://yifita.github.io/tags/deep-learning/</link>
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
@@ -77,10 +85,34 @@
     </item>
     
     <item>
+      <title>2D</title>
+      <link>https://yifita.github.io/tags/2d/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/2d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image</title>
+      <link>https://yifita.github.io/tags/image/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>action recognition</title>
       <link>https://yifita.github.io/tags/action-recognition/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/tags/action-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>https://yifita.github.io/tags/video/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/tags/video/</guid>
       <description></description>
     </item>
     
