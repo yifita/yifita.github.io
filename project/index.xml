@@ -5,12 +5,20 @@
     <link>https://yifita.github.io/project/</link>
       <atom:link href="https://yifita.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yifita.github.io/img/icon-192.png</url>
       <title>Projects</title>
       <link>https://yifita.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Neural Shapes</title>
+      <link>https://yifita.github.io/project/neural-shape/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/project/neural-shape/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Point-based geometry processing</title>
