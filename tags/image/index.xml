@@ -31,7 +31,7 @@ In blind super-resolution, the degradation kernel k applied on the high resoluti
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/prosr/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
+&lt;h3 id=&#34;results-&#34;&gt;Results&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;prosr_benchmark.png&#34; alt=&#34;benchmark&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;MsLapSRN: Lai, Wei-Sheng, et al. &amp;ldquo;Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks.&amp;rdquo; arXiv preprint arXiv:1710.01992 (2017).&lt;/p&gt;
@@ -40,7 +40,7 @@ In blind super-resolution, the degradation kernel k applied on the high resoluti
 &lt;/blockquote&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;featured-video&#34;&gt;Featured Video&lt;/h3&gt;
+&lt;h3 id=&#34;featured-video-&#34;&gt;Featured Video&lt;/h3&gt;
 &lt;p&gt;It&#39;s a pleasure to be featured in &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg&#34;&gt;2 minute paper&lt;/a&gt;&amp;quot;, an amazing YouTube channel that introduces latest development of AI in a variety of applications.
 Here&#39;s the video that talks about our work.
 
