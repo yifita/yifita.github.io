@@ -73,7 +73,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.3bbd686f490ea6969fd3aaea3d063089.css">
+  <link rel="stylesheet" href="/css/academic.min.92a85bcceaf4224457fbcecf109eb52a.css">
 
   
 
@@ -176,6 +176,32 @@
 
 
   
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#2962ff",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#2962ff"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
 
 
   
@@ -651,19 +677,96 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"><p><img src="teaser.png" alt="teaser"></p>
-<h3 id="results-">Results</h3>
-<!-- raw HTML omitted -->
-<hr>
-<!-- raw HTML omitted -->
-<hr>
-<!-- raw HTML omitted -->
-<hr>
-<!-- raw HTML omitted -->
-<h3 id="references-">References</h3>
+    <div class="article-style">
+
+<p><img src="teaser.png" alt="teaser" /></p>
+
+<h3 id="results">Results</h3>
+
+<p><center>
+$16\times$ upsampling from 625 points
+</center>
+
+
+
+
+
+
+<figure>
+
+  <a data-fancybox="" href="figure_sparse.png" >
+
+<img src="figure_sparse.png" alt="" >
+</a>
+
+</figure>
+</p>
+
+<hr />
+
+<p><center>$16\times$ upsampling from 5000 points</center>
+
+
+
+
+
+
+<figure>
+
+  <a data-fancybox="" href="figure_dense.png" >
+
+<img src="figure_dense.png" alt="" >
+</a>
+
+</figure>
+</p>
+
+<hr />
+
+<p><center>$16\times$ upsampling from scan data</center>
+
+
+
+
+
+
+<figure>
+
+  <a data-fancybox="" href="real_scan.png" >
+
+<img src="real_scan.png" alt="" >
+</a>
+
+</figure>
+</p>
+
+<hr />
+
+<p><center>$16\times$ upsampling from virtual scan data</center>
+
+
+
+
+
+
+<figure>
+
+  <a data-fancybox="" href="scan.png" >
+
+<img src="scan.png" alt="" >
+</a>
+
+</figure>
+</p>
+
+<h3 id="references">References</h3>
+
 <p><em>PU-Net</em>: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &ldquo;Pu-net: Point cloud upsampling network&rdquo;, CVPR 2018</p>
+
 <p><em>EC-Net</em>: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &ldquo;Ec-net: an edge-aware point set consolidation network&rdquo;,  ECCV 2018</p>
+
 <p><em>EAR</em>: H. Huang, S. Wu, M. Gong, D. Cohen-Or, U. Ascher, and H. Zhang, &ldquo;Edge-aware point set resampling&rdquo;, ACM ToG 2013</p>
+
 <p><em>WLOP</em>: H. Huang, D. Li, H. Zhang, U. Ascher, and D. Cohen-Or, &ldquo;Consolidation of unorganized point clouds for surface reconstruction&rdquo;, SIGGRAPH Asia 2009</p>
 </div>
 
@@ -787,7 +890,7 @@
     
     
     
-    <script src="/js/academic.min.130521ecfc6f534c52c158217bbff718.js"></script>
+    <script src="/js/academic.min.f92d7215d2132cd354f657f0bc9cc542.js"></script>
 
     
 
