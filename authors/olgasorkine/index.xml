@@ -46,7 +46,8 @@ transfer their poses to the other characters (blue).&lt;/p&gt;
 &lt;p&gt;Due to the agnostic nature of cage-deformations to
 the underlying shape, we are able to seamlessly combine
 machine learning and traditional geometry processing to
-generalize to never-observed characters, even if the novel source and target characters are morphologically very different from the both the template source.&lt;/p&gt;
+generalize to never-observed characters, even if the novel source and target characters are morphologically very different from the both the template source.
+&lt;img src=&#34;teaser.jpg&#34; alt=&#34;teaser&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
