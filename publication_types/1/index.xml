@@ -17,37 +17,29 @@
       <link>https://yifita.github.io/publication/deep_cage/</link>
       <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/deep_cage/</guid>
-      <description>
-
-&lt;h3 id=&#34;we-can-warp-an-arbitrary-input-shape-to-match-the-grob-structure-of-an-arbitrary-target-shape-while-preserving-all-the-local-geometric-details-the-input-and-target-shape-is-not-required-to-have-dense-correspondences-the-same-topology-or-even-the-same-representation-form-e-g-points-mesh-and-2d-image&#34;&gt;We can warp an arbitrary input shape to match the grob structure of an arbitrary target shape, while &lt;strong&gt;preserving all the local geometric details&lt;/strong&gt;. The input and target shape is not required to have dense correspondences, the same topology, or even the same representation form (e.g. points, mesh and 2D image).&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;overview.png&#34; alt=&#34;overview&#34; /&gt;
+      <description>&lt;h3 id=&#34;we-can-warp-an-arbitrary-input-shape-to-match-the-grob-structure-of-an-arbitrary-target-shape-while-__preserving-all-the-local-geometric-details__-the-input-and-target-shape-is-not-required-to-have-dense-correspondences-the-same-topology-or-even-the-same-representation-form-eg-points-mesh-and-2d-image&#34;&gt;We can warp an arbitrary input shape to match the grob structure of an arbitrary target shape, while &lt;strong&gt;preserving all the local geometric details&lt;/strong&gt;. The input and target shape is not required to have dense correspondences, the same topology, or even the same representation form (e.g. points, mesh and 2D image).&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;overview.png&#34; alt=&#34;overview&#34;&gt;
 The key of our method is reducing the degrees of freedom of the deformation space by extending the traditional cage-based deformation technique.&lt;/p&gt;
-
-&lt;h2 id=&#34;application-1-shape-synthesis&#34;&gt;Application 1 - Shape synthesis&lt;/h2&gt;
-
+&lt;h2 id=&#34;application-1---shape-synthesis&#34;&gt;Application 1 - Shape synthesis&lt;/h2&gt;
 &lt;p&gt;We use our method to
 learn a meaningful deformation space over a collection of
 shapes within the same category, and then use random pairs
 of source and target shapes to synthesize plausible variations
 of artist-generated assets.
-&lt;img src=&#34;comparison.png&#34; alt=&#34;comparison&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;application-2-deformation-transfer&#34;&gt;Application 2 - Deformation transfer&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;deformation_transfer.jpg&#34; alt=&#34;dt&#34; /&gt;
+&lt;img src=&#34;comparison.png&#34; alt=&#34;comparison&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;application-2---deformation-transfer&#34;&gt;Application 2 - Deformation transfer&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;deformation_transfer.jpg&#34; alt=&#34;dt&#34;&gt;
 We first learn the cage deformation space
 for a template source shape (top left) with known pose and body shape
 variations. Then, we annotate predefined landmarks on new characters
 in neutral poses (left column, rows 2-4). At test time, given novel target
 poses (top row, green) without known correspondences to the template, we
 transfer their poses to the other characters (blue).&lt;/p&gt;
-
 &lt;p&gt;Due to the agnostic nature of cage-deformations to
 the underlying shape, we are able to seamlessly combine
 machine learning and traditional geometry processing to
 generalize to never-observed characters, even if the novel source and target characters are morphologically very different from the both the template source.
-&lt;img src=&#34;teaser.jpg&#34; alt=&#34;teaser&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;teaser.jpg&#34; alt=&#34;teaser&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -56,96 +48,19 @@ generalize to never-observed characters, even if the novel source and target cha
       <link>https://yifita.github.io/publication/3pu/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/3pu/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
-
-&lt;p&gt;&lt;center&gt;
-$16\times$ upsampling from 625 points
-&lt;/center&gt;
-
-
-
-
-
-
-&lt;figure&gt;
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_sparse.png&#34; &gt;
-
-&lt;img src=&#34;figure_sparse.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
-
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;$16\times$ upsampling from 5000 points&lt;/center&gt;
-
-
-
-
-
-
-&lt;figure&gt;
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_dense.png&#34; &gt;
-
-&lt;img src=&#34;figure_dense.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
-
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;$16\times$ upsampling from scan data&lt;/center&gt;
-
-
-
-
-
-
-&lt;figure&gt;
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;real_scan.png&#34; &gt;
-
-&lt;img src=&#34;real_scan.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
-
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;$16\times$ upsampling from virtual scan data&lt;/center&gt;
-
-
-
-
-
-
-&lt;figure&gt;
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;scan.png&#34; &gt;
-
-&lt;img src=&#34;scan.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
-
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-
+      <description>&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;results-&#34;&gt;Results&lt;/h3&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;references-&#34;&gt;References&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;PU-Net&lt;/em&gt;: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &amp;ldquo;Pu-net: Point cloud upsampling network&amp;rdquo;, CVPR 2018&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;EC-Net&lt;/em&gt;: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &amp;ldquo;Ec-net: an edge-aware point set consolidation network&amp;rdquo;,  ECCV 2018&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;EAR&lt;/em&gt;: H. Huang, S. Wu, M. Gong, D. Cohen-Or, U. Ascher, and H. Zhang, &amp;ldquo;Edge-aware point set resampling&amp;rdquo;, ACM ToG 2013&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;WLOP&lt;/em&gt;: H. Huang, D. Li, H. Zhang, U. Ascher, and D. Cohen-Or, &amp;ldquo;Consolidation of unorganized point clouds for surface reconstruction&amp;rdquo;, SIGGRAPH Asia 2009&lt;/p&gt;
 </description>
     </item>
@@ -155,37 +70,22 @@ $16\times$ upsampling from 625 points
       <link>https://yifita.github.io/publication/prosr/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/prosr/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;prosr_benchmark.png&#34; alt=&#34;benchmark&#34; /&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;results-&#34;&gt;Results&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;prosr_benchmark.png&#34; alt=&#34;benchmark&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;MsLapSRN: Lai, Wei-Sheng, et al. &amp;ldquo;Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks.&amp;rdquo; arXiv preprint arXiv:1710.01992 (2017).&lt;/p&gt;
-
 &lt;p&gt;EDSR, MDSR: Lim, Bee, et al. &amp;ldquo;Enhanced deep residual networks for single image super-resolution.&amp;rdquo; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. Vol. 1. No. 2. 2017.&lt;/p&gt;
-
 &lt;p&gt;RDN:Zhang, Yulun, et al. &amp;ldquo;Residual Dense Network for Image Super-Resolution.&amp;rdquo;  The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;!-- ### Accompanying Video ###
-(Best viewed in full-screen mode)
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/ON3XHnaDepE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
- --&gt;
-
-&lt;h3 id=&#34;featured-video&#34;&gt;Featured Video&lt;/h3&gt;
-
-&lt;p&gt;It&amp;rsquo;s a pleasure to be featured in &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg&#34; target=&#34;_blank&#34;&gt;2 minute paper&lt;/a&gt;&amp;rdquo;, an amazing YouTube channel that introduces latest development of AI in a variety of applications.
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;featured-video-&#34;&gt;Featured Video&lt;/h3&gt;
+&lt;p&gt;It&amp;rsquo;s a pleasure to be featured in &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg&#34;&gt;2 minute paper&lt;/a&gt;&amp;quot;, an amazing YouTube channel that introduces latest development of AI in a variety of applications.
 Here&amp;rsquo;s the video that talks about our work.
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/HvH0b9K_Iro&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/HvH0b9K_Iro&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -196,11 +96,8 @@ Here&amp;rsquo;s the video that talks about our work.
       <link>https://yifita.github.io/publication/action_srcnn/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/action_srcnn/</guid>
-      <description>
-
-&lt;h3 id=&#34;network-architecture&#34;&gt;Network Architecture&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;Architecture&#34; /&gt;&lt;/p&gt;
+      <description>&lt;h3 id=&#34;network-architecture&#34;&gt;Network Architecture&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;Architecture&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
