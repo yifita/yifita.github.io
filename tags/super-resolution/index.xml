@@ -31,7 +31,7 @@ In blind super-resolution, the degradation kernel k applied on the high resoluti
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/3pu/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;results-&#34;&gt;Results&lt;/h3&gt;
+&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;hr&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -39,7 +39,7 @@ In blind super-resolution, the degradation kernel k applied on the high resoluti
 &lt;!-- raw HTML omitted --&gt;
 &lt;hr&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;references-&#34;&gt;References&lt;/h3&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;PU-Net&lt;/em&gt;: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &amp;ldquo;Pu-net: Point cloud upsampling network&amp;rdquo;, CVPR 2018&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;EC-Net&lt;/em&gt;: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &amp;ldquo;Ec-net: an edge-aware point set consolidation network&amp;rdquo;,  ECCV 2018&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;EAR&lt;/em&gt;: H. Huang, S. Wu, M. Gong, D. Cohen-Or, U. Ascher, and H. Zhang, &amp;ldquo;Edge-aware point set resampling&amp;rdquo;, ACM ToG 2013&lt;/p&gt;
@@ -53,7 +53,7 @@ In blind super-resolution, the degradation kernel k applied on the high resoluti
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/prosr/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;results-&#34;&gt;Results&lt;/h3&gt;
+&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;prosr_benchmark.png&#34; alt=&#34;benchmark&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;MsLapSRN: Lai, Wei-Sheng, et al. &amp;ldquo;Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks.&amp;rdquo; arXiv preprint arXiv:1710.01992 (2017).&lt;/p&gt;
@@ -62,8 +62,8 @@ In blind super-resolution, the degradation kernel k applied on the high resoluti
 &lt;/blockquote&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;featured-video-&#34;&gt;Featured Video&lt;/h3&gt;
-&lt;p&gt;It&amp;rsquo;s a pleasure to be featured in &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg&#34;&gt;2 minute paper&lt;/a&gt;&amp;quot;, an amazing YouTube channel that introduces latest development of AI in a variety of applications.
+&lt;h3 id=&#34;featured-video&#34;&gt;Featured Video&lt;/h3&gt;
+&lt;p&gt;It&amp;rsquo;s a pleasure to be featured in &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg&#34;&gt;2 minute paper&lt;/a&gt;&amp;rdquo;, an amazing YouTube channel that introduces latest development of AI in a variety of applications.
 Here&amp;rsquo;s the video that talks about our work.
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;

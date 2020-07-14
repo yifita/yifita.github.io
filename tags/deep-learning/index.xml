@@ -38,8 +38,15 @@ transfer their poses to the other characters (blue).&lt;/p&gt;
 &lt;p&gt;Due to the agnostic nature of cage-deformations to
 the underlying shape, we are able to seamlessly combine
 machine learning and traditional geometry processing to
-generalize to never-observed characters, even if the novel source and target characters are morphologically very different from the both the template source.
-&lt;img src=&#34;teaser.jpg&#34; alt=&#34;teaser&#34;&gt;&lt;/p&gt;
+generalize to never-observed characters, even if the novel source and target characters are morphologically very different from the both the template source.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;teaser.jpg&#34; alt=&#34;teaser&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;talk&#34;&gt;Talk&lt;/h2&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/UZLAj2xTojY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+This is the talk I&amp;rsquo;ll be giving virtually for CVPR2020.&lt;/p&gt;
 </description>
     </item>
     
@@ -62,22 +69,22 @@ In blind super-resolution, the degradation kernel k applied on the high resoluti
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/dss/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;shape-synthesis-&#34;&gt;Shape Synthesis&lt;/h3&gt;
+&lt;h3 id=&#34;shape-synthesis&#34;&gt;Shape Synthesis&lt;/h3&gt;
 &lt;p&gt;We can synthesize shapes from multiple 2D images. This process is not constrained by topology changes.
 &lt;img src=&#34;yoga.png&#34; alt=&#34;synthesis&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;point-cloud-filering-&#34;&gt;Point Cloud Filering&lt;/h3&gt;
+&lt;h3 id=&#34;point-cloud-filering&#34;&gt;Point Cloud Filering&lt;/h3&gt;
 &lt;p&gt;Using DSS we can directly apply image-based filters to a point cloud to achieve various geometric effect.
 &lt;img src=&#34;DSSfilter.png&#34; alt=&#34;filtering&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;point-cloud-denoising-&#34;&gt;Point Cloud Denoising&lt;/h3&gt;
+&lt;h3 id=&#34;point-cloud-denoising&#34;&gt;Point Cloud Denoising&lt;/h3&gt;
 &lt;p&gt;We create state-of-the-art point cloud denoising results by marrying our differential renderer with the famous image-to-image translation deep learning framework &lt;em&gt;Pix2Pix&lt;/em&gt;.
 &lt;img src=&#34;armadillo_2_all.png&#34; alt=&#34;Denoising&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;accompanying-video-&#34;&gt;Accompanying Video&lt;/h3&gt;
+&lt;h3 id=&#34;accompanying-video&#34;&gt;Accompanying Video&lt;/h3&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/Q8iTkmIky0o&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&#34;acknowledgement-&#34;&gt;Acknowledgement&lt;/h3&gt;
+&lt;h3 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h3&gt;
 &lt;p&gt;We would like to thank Federico Danieli for the insightful discussion, Philipp Herholz for the timely feedack, Romann Weber for the video voice-over and Derek Liu for the help during the rebuttal.
 This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.&lt;/p&gt;
 </description>
@@ -97,7 +104,7 @@ This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.&lt;
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/3pu/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;results-&#34;&gt;Results&lt;/h3&gt;
+&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;hr&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -105,7 +112,7 @@ This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.&lt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;hr&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;references-&#34;&gt;References&lt;/h3&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;PU-Net&lt;/em&gt;: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &amp;ldquo;Pu-net: Point cloud upsampling network&amp;rdquo;, CVPR 2018&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;EC-Net&lt;/em&gt;: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &amp;ldquo;Ec-net: an edge-aware point set consolidation network&amp;rdquo;,  ECCV 2018&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;EAR&lt;/em&gt;: H. Huang, S. Wu, M. Gong, D. Cohen-Or, U. Ascher, and H. Zhang, &amp;ldquo;Edge-aware point set resampling&amp;rdquo;, ACM ToG 2013&lt;/p&gt;
@@ -127,7 +134,7 @@ This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.&lt;
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/prosr/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;results-&#34;&gt;Results&lt;/h3&gt;
+&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;prosr_benchmark.png&#34; alt=&#34;benchmark&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;MsLapSRN: Lai, Wei-Sheng, et al. &amp;ldquo;Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks.&amp;rdquo; arXiv preprint arXiv:1710.01992 (2017).&lt;/p&gt;
@@ -136,8 +143,8 @@ This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.&lt;
 &lt;/blockquote&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;featured-video-&#34;&gt;Featured Video&lt;/h3&gt;
-&lt;p&gt;It&amp;rsquo;s a pleasure to be featured in &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg&#34;&gt;2 minute paper&lt;/a&gt;&amp;quot;, an amazing YouTube channel that introduces latest development of AI in a variety of applications.
+&lt;h3 id=&#34;featured-video&#34;&gt;Featured Video&lt;/h3&gt;
+&lt;p&gt;It&amp;rsquo;s a pleasure to be featured in &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg&#34;&gt;2 minute paper&lt;/a&gt;&amp;rdquo;, an amazing YouTube channel that introduces latest development of AI in a variety of applications.
 Here&amp;rsquo;s the video that talks about our work.
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
