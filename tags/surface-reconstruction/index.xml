@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Yifan Wang - ETH Zurich</title>
-    <link>https://yifita.github.io/publication_types/3/</link>
-      <atom:link href="https://yifita.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
+    <title>surface reconstruction | Yifan Wang - ETH Zurich</title>
+    <link>https://yifita.github.io/tags/surface-reconstruction/</link>
+      <atom:link href="https://yifita.github.io/tags/surface-reconstruction/index.xml" rel="self" type="application/rss+xml" />
+    <description>surface reconstruction</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yifita.github.io/img/icon-192.png</url>
-      <title>3</title>
-      <link>https://yifita.github.io/publication_types/3/</link>
+      <title>surface reconstruction</title>
+      <link>https://yifita.github.io/tags/surface-reconstruction/</link>
     </image>
     
     <item>
