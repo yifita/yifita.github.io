@@ -21,12 +21,6 @@
   </url>
   
   <url>
-    <loc>https://yifita.github.io/tags/deep-learning/</loc>
-    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yifita.github.io/publication/iso_points/</loc>
     <lastmod>2020-12-10T00:00:00+00:00</lastmod>
   </url>
@@ -69,6 +63,12 @@
   <url>
     <loc>https://yifita.github.io/authors/yifanwang/</loc>
     <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/tags/deep-learning/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
