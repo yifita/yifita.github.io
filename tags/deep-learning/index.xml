@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>deep learning | Yifan Wang - ETH Zurich</title>
+    <title>Deep Learning | Yifan Wang - ETH Zurich</title>
     <link>https://yifita.github.io/tags/deep-learning/</link>
       <atom:link href="https://yifita.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>deep learning</description>
+    <description>Deep Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yifita.github.io/img/icon-192.png</url>
-      <title>deep learning</title>
+      <title>Deep Learning</title>
       <link>https://yifita.github.io/tags/deep-learning/</link>
     </image>
     
