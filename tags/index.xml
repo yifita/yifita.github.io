@@ -5,7 +5,7 @@
     <link>https://yifita.github.io/tags/</link>
       <atom:link href="https://yifita.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yifita.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Deep Learning</title>
       <link>https://yifita.github.io/tags/deep-learning/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>geometry processing</title>
       <link>https://yifita.github.io/tags/geometry-processing/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/tags/geometry-processing/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>surface reconstruction</title>
       <link>https://yifita.github.io/tags/surface-reconstruction/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/tags/surface-reconstruction/</guid>
       <description></description>
     </item>
