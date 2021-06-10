@@ -5,7 +5,7 @@
     <link>https://yifita.github.io/authors/shihaowu/</link>
       <atom:link href="https://yifita.github.io/authors/shihaowu/index.xml" rel="self" type="application/rss+xml" />
     <description>ShihaoWu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yifita.github.io/img/icon-192.png</url>
       <title>ShihaoWu</title>
@@ -15,9 +15,9 @@
     <item>
       <title>Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations</title>
       <link>https://yifita.github.io/publication/iso_points/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/iso_points/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34;&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34; /&gt;
 We propose a hybrid neural surface representation with implicit
 functions and iso-points. The representation leads to accurate and robust
 surface reconstruction from imperfect data. The on-the-fly conversion with
@@ -27,7 +27,8 @@ are incorporated to reconstruct a surface from a noisy point cloud; in the
 second row, geometric details are preserved in multi-view reconstruction
 via feature-aware sampling; in the last row, iso-points serve as a 3D prior
 to improve the topological accuracy of the reconstructed surface&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;overview.png&#34; alt=&#34;overview&#34;&gt;
+
+&lt;p&gt;&lt;img src=&#34;overview.png&#34; alt=&#34;overview&#34; /&gt;
 We efficiently extract a dense, uniformly distributed set of iso-points as an explicit representation for a neural implicit surface. Since the extraction is fast, iso-points can be integrated back into the optimization as a 3D geometric prior, enhancing the optimization.&lt;/p&gt;
 </description>
     </item>
@@ -37,23 +38,35 @@ We efficiently extract a dense, uniformly distributed set of iso-points as an ex
       <link>https://yifita.github.io/publication/dss/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/dss/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34;&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34; /&gt;&lt;/p&gt;
+
 &lt;h3 id=&#34;shape-synthesis&#34;&gt;Shape Synthesis&lt;/h3&gt;
+
 &lt;p&gt;We can synthesize shapes from multiple 2D images. This process is not constrained by topology changes.
-&lt;img src=&#34;yoga.png&#34; alt=&#34;synthesis&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;yoga.png&#34; alt=&#34;synthesis&#34; /&gt;&lt;/p&gt;
+
 &lt;h3 id=&#34;point-cloud-filering&#34;&gt;Point Cloud Filering&lt;/h3&gt;
+
 &lt;p&gt;Using DSS we can directly apply image-based filters to a point cloud to achieve various geometric effect.
-&lt;img src=&#34;DSSfilter.png&#34; alt=&#34;filtering&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;DSSfilter.png&#34; alt=&#34;filtering&#34; /&gt;&lt;/p&gt;
+
 &lt;h3 id=&#34;point-cloud-denoising&#34;&gt;Point Cloud Denoising&lt;/h3&gt;
+
 &lt;p&gt;We create state-of-the-art point cloud denoising results by marrying our differential renderer with the famous image-to-image translation deep learning framework &lt;em&gt;Pix2Pix&lt;/em&gt;.
-&lt;img src=&#34;armadillo_2_all.png&#34; alt=&#34;Denoising&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;armadillo_2_all.png&#34; alt=&#34;Denoising&#34; /&gt;&lt;/p&gt;
+
 &lt;h3 id=&#34;accompanying-video&#34;&gt;Accompanying Video&lt;/h3&gt;
 
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/Q8iTkmIky0o&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Q8iTkmIky0o&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+
 &lt;h3 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h3&gt;
+
 &lt;p&gt;We would like to thank Federico Danieli for the insightful discussion, Philipp Herholz for the timely feedack, Romann Weber for the video voice-over and Derek Liu for the help during the rebuttal.
 This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.&lt;/p&gt;
 </description>
@@ -64,19 +77,96 @@ This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.&lt;
       <link>https://yifita.github.io/publication/3pu/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/3pu/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34;&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34; /&gt;&lt;/p&gt;
+
 &lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;hr&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;hr&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;hr&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;p&gt;&lt;center&gt;
+$16\times$ upsampling from 625 points
+&lt;/center&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_sparse.png&#34; &gt;
+
+&lt;img src=&#34;figure_sparse.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;$16\times$ upsampling from 5000 points&lt;/center&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_dense.png&#34; &gt;
+
+&lt;img src=&#34;figure_dense.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;$16\times$ upsampling from scan data&lt;/center&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;real_scan.png&#34; &gt;
+
+&lt;img src=&#34;real_scan.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;$16\times$ upsampling from virtual scan data&lt;/center&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;scan.png&#34; &gt;
+
+&lt;img src=&#34;scan.png&#34; alt=&#34;&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+
 &lt;p&gt;&lt;em&gt;PU-Net&lt;/em&gt;: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &amp;ldquo;Pu-net: Point cloud upsampling network&amp;rdquo;, CVPR 2018&lt;/p&gt;
+
 &lt;p&gt;&lt;em&gt;EC-Net&lt;/em&gt;: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &amp;ldquo;Ec-net: an edge-aware point set consolidation network&amp;rdquo;,  ECCV 2018&lt;/p&gt;
+
 &lt;p&gt;&lt;em&gt;EAR&lt;/em&gt;: H. Huang, S. Wu, M. Gong, D. Cohen-Or, U. Ascher, and H. Zhang, &amp;ldquo;Edge-aware point set resampling&amp;rdquo;, ACM ToG 2013&lt;/p&gt;
+
 &lt;p&gt;&lt;em&gt;WLOP&lt;/em&gt;: H. Huang, D. Li, H. Zhang, U. Ascher, and D. Cohen-Or, &amp;ldquo;Consolidation of unorganized point clouds for surface reconstruction&amp;rdquo;, SIGGRAPH Asia 2009&lt;/p&gt;
 </description>
     </item>

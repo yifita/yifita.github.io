@@ -1,85 +1,121 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yifita.github.io/publication_types/1/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+    <loc>https://yifita.github.io/publication_types/3/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/authors/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yifita.github.io/authors/cengizoeztireli/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/tags/deep-learning/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yifita.github.io/tags/geometry-processing/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+    <loc>https://yifita.github.io/publication/idf/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yifita.github.io/publication/iso_points/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+    <loc>https://yifita.github.io/authors/lukas-rahmann/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/authors/olgasorkine/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/publication_types/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/publication/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yifita.github.io/authors/shihaowu/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yifita.github.io/tags/surface-reconstruction/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://yifita.github.io/tags/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/authors/yifanwang/</loc>
-    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/tags/geometry-processing/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/tags/neural-implicit/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/tags/surface-reconstruction/</loc>
+    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/publication_types/1/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/cengizoeztireli/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/publication/iso_points/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/shihaowu/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/tags/neural-implicits/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/tags/3d/</loc>
     <lastmod>2020-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yifita.github.io/tags/deformation/</loc>
-    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -90,31 +126,43 @@
   <url>
     <loc>https://yifita.github.io/authors/noamaigerman/</loc>
     <lastmod>2020-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yifita.github.io/tags/shape-modeling/</loc>
-    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/authors/sidchaudhuri/</loc>
     <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/authors/vovakim/</loc>
     <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/tags/deformation/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/tags/shape-modeling/</loc>
+    <lastmod>2020-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/publication_types/2/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/authors/abdelazizdjelouah/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -125,26 +173,31 @@
   <url>
     <loc>https://yifita.github.io/authors/christopherschroers/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yifita.github.io/tags/image/</loc>
-    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yifita.github.io/tags/image-processing/</loc>
-    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yifita.github.io/tags/super-resolution/</loc>
-    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/authors/victor-cornill%C3%A8re/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/tags/image/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/tags/image-processing/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/tags/super-resolution/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -155,16 +208,19 @@
   <url>
     <loc>https://yifita.github.io/authors/felice-serena/</loc>
     <lastmod>2019-07-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/tags/point-cloud/</loc>
     <lastmod>2019-07-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/tags/rendering/</loc>
     <lastmod>2019-07-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -175,16 +231,19 @@
   <url>
     <loc>https://yifita.github.io/project/</loc>
     <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/authors/danielcohenor/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/authors/huihuang/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -205,21 +264,25 @@
   <url>
     <loc>https://yifita.github.io/authors/alexanderhornung/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/authors/brianmcwilliams/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/authors/federicoperazzi/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/tags/2d/</loc>
     <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -233,28 +296,27 @@
   </url>
   
   <url>
-    <loc>https://yifita.github.io/tags/action-recognition/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yifita.github.io/authors/jiesong/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/authors/limin-wang/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/authors/luc-van-gool/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/authors/otmarhilliges/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -263,12 +325,20 @@
   </url>
   
   <url>
+    <loc>https://yifita.github.io/tags/action-recognition/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yifita.github.io/tags/video/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/categories/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
