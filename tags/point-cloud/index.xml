@@ -5,12 +5,21 @@
     <link>https://yifita.github.io/tags/point-cloud/</link>
       <atom:link href="https://yifita.github.io/tags/point-cloud/index.xml" rel="self" type="application/rss+xml" />
     <description>point cloud</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Feb 2021 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yifita.github.io/img/icon-192.png</url>
       <title>point cloud</title>
       <link>https://yifita.github.io/tags/point-cloud/</link>
     </image>
+    
+    <item>
+      <title>Detail-Driven 3D Content Creation</title>
+      <link>https://yifita.github.io/talk/toronto-geometry-colloquium/</link>
+      <pubDate>Wed, 03 Feb 2021 15:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/talk/toronto-geometry-colloquium/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://toronto-geometry-colloquium.github.io/posters/tgc_poster_012.jpg&#34; alt=&#34;poster&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Differentiable Surface Splatting for Point-based Geometry Processing</title>
