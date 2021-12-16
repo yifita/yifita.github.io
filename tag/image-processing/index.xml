@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>image processing | Yifan Wang - ETH Zurich</title>
+    <link>https://yifita.github.io/tag/image-processing/</link>
+      <atom:link href="https://yifita.github.io/tag/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>image processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/media/icon_hu039e7a8dee100027504ac14a50a2ed32_26438_512x512_fill_lanczos_center_3.png</url>
+      <title>image processing</title>
+      <link>https://yifita.github.io/tag/image-processing/</link>
+    </image>
+    
+    <item>
+      <title>Video Super-Resolution Using An Artificial Neural Network</title>
+      <link>https://yifita.github.io/publication/pro_sr_patent/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/publication/pro_sr_patent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Techniques for upscaling images generated with undetermined downscaling kernels</title>
+      <link>https://yifita.github.io/publication/blindsr_patent/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/publication/blindsr_patent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind Image Super-Resolution with Spatially Variant Degradations</title>
+      <link>https://yifita.github.io/publication/variational_blindsr/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/publication/variational_blindsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fully Progressive Approach to Single-Image Super-Resolution</title>
+      <link>https://yifita.github.io/publication/prosr/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/publication/prosr/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;teaser&#34; srcset=&#34;
+               /publication/prosr/teaser_hu7bc39c5843791f2e96e2bf4a6d0ee2c4_908466_2e722302f31b6190be461d5b785c3372.png 400w,
+               /publication/prosr/teaser_hu7bc39c5843791f2e96e2bf4a6d0ee2c4_908466_d1d9e47169d4c470fc9eb628112c6528.png 760w,
+               /publication/prosr/teaser_hu7bc39c5843791f2e96e2bf4a6d0ee2c4_908466_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/prosr/teaser_hu7bc39c5843791f2e96e2bf4a6d0ee2c4_908466_2e722302f31b6190be461d5b785c3372.png&#34;
+               width=&#34;760&#34;
+               height=&#34;213&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;benchmark&#34; srcset=&#34;
+               /publication/prosr/prosr_benchmark_hu0c14cc2d175ff2dbd1dc10cd687365c1_129303_8cfd438c60ac5ceb4548dd2fc869808f.png 400w,
+               /publication/prosr/prosr_benchmark_hu0c14cc2d175ff2dbd1dc10cd687365c1_129303_2bfc699c87d1cdb335bfccb105be4071.png 760w,
+               /publication/prosr/prosr_benchmark_hu0c14cc2d175ff2dbd1dc10cd687365c1_129303_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/prosr/prosr_benchmark_hu0c14cc2d175ff2dbd1dc10cd687365c1_129303_8cfd438c60ac5ceb4548dd2fc869808f.png&#34;
+               width=&#34;760&#34;
+               height=&#34;154&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;MsLapSRN: Lai, Wei-Sheng, et al. &amp;ldquo;Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks.&amp;rdquo; arXiv preprint arXiv:1710.01992 (2017).&lt;/p&gt;
+&lt;p&gt;EDSR, MDSR: Lim, Bee, et al. &amp;ldquo;Enhanced deep residual networks for single image super-resolution.&amp;rdquo; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. Vol. 1. No. 2. 2017.&lt;/p&gt;
+&lt;p&gt;RDN:Zhang, Yulun, et al. &amp;ldquo;Residual Dense Network for Image Super-Resolution.&amp;rdquo;  The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- ### Accompanying Video ###
+(Best viewed in full-screen mode)
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ON3XHnaDepE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h3 id=&#34;featured-video&#34;&gt;Featured Video&lt;/h3&gt;
+&lt;p&gt;It&amp;rsquo;s a pleasure to be featured in &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2 minute paper&lt;/a&gt;&amp;rdquo;, an amazing YouTube channel that introduces latest development of AI in a variety of applications.
+Here&amp;rsquo;s the video that talks about our work.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/HvH0b9K_Iro&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single-Image Super-Resolution</title>
+      <link>https://yifita.github.io/project/single-image-super-resolution/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/project/single-image-super-resolution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

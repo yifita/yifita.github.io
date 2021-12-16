@@ -5,9 +5,9 @@
     <link>https://yifita.github.io/authors/jiesong/</link>
       <atom:link href="https://yifita.github.io/authors/jiesong/index.xml" rel="self" type="application/rss+xml" />
     <description>JieSong</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yifita.github.io/img/icon-192.png</url>
+      <url>https://yifita.github.io/media/icon_hu039e7a8dee100027504ac14a50a2ed32_26438_512x512_fill_lanczos_center_3.png</url>
       <title>JieSong</title>
       <link>https://yifita.github.io/authors/jiesong/</link>
     </image>
@@ -17,11 +17,35 @@
       <link>https://yifita.github.io/publication/action_srcnn/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/action_srcnn/</guid>
-      <description>
+      <description>&lt;h3 id=&#34;network-architecture&#34;&gt;Network Architecture&lt;/h3&gt;
+&lt;p&gt;
 
-&lt;h3 id=&#34;network-architecture&#34;&gt;Network Architecture&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;Architecture&#34; /&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Architecture&#34; srcset=&#34;
+               /publication/action_srcnn/featured_hu1e735c8506cd55df4c6fe72ecd504b14_61342_b1318c6396a224220e8c881567054a19.jpg 400w,
+               /publication/action_srcnn/featured_hu1e735c8506cd55df4c6fe72ecd504b14_61342_3fb4c7052b6d511caca20476b3a561c3.jpg 760w,
+               /publication/action_srcnn/featured_hu1e735c8506cd55df4c6fe72ecd504b14_61342_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/action_srcnn/featured_hu1e735c8506cd55df4c6fe72ecd504b14_61342_b1318c6396a224220e8c881567054a19.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;337&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     

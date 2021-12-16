@@ -1,13 +1,45 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!DOCTYPE html><html lang="en-us" >
+
 
 <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
 
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.5.0">
+  
+  
 
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap&display=swap" media="print" onload="this.media='all'">
+    
   
 
   
@@ -21,35 +53,51 @@
   
   
 
-  <meta name="author" content="Yifan Wang">
+  <meta name="author" content="Yifan Wang" />
 
   
   
   
     
   
-  <meta name="description" content="A review paper about the state-of-the-art in neural rendering.">
+  <meta name="description" content="A review paper about the state-of-the-art in neural rendering." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://yifita.github.io/publication/neural_rendering_review/">
-
-  
-
+  <link rel="alternate" hreflang="en-us" href="https://yifita.github.io/publication/neural_rendering_review/" />
 
   
   
   
-  <meta name="theme-color" content="#4caf50">
+    <meta name="theme-color" content="#4caf50" />
   
 
   
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
   
   
   
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
 
     
     
@@ -59,33 +107,156 @@
     
 
     
+    
+    
 
     
 
-  
-
-  
-  
-  
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
-  
-
-  
-  
-  
-  <link rel="stylesheet" href="/css/academic.min.71f2032bbba474bfbfbfd7fa8e2560ba.css">
-
-  
-    
-    
     
     
       
+      
+
+      
+      
+
+      
     
+      
+      
+
+      
+      
+
+      
     
+      
+      
+
+      
+      
+
+      
     
-    <link rel="stylesheet" href="/css/academic.831447f3344136d9aa444c025c34ff81.css">
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
   
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.78cf933a3e84156d8b2c1fb88383fb2e.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
 
   
   
@@ -93,12 +264,19 @@
 
   
 
-  <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
 
-  <link rel="canonical" href="https://yifita.github.io/publication/neural_rendering_review/">
+  <link rel="icon" type="image/png" href="/media/icon_hu039e7a8dee100027504ac14a50a2ed32_26438_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu039e7a8dee100027504ac14a50a2ed32_26438_180x180_fill_lanczos_center_3.png" />
 
+  <link rel="canonical" href="https://yifita.github.io/publication/neural_rendering_review/" />
+
+  
+  
+  
+  
   
   
   
@@ -106,19 +284,25 @@
     
   
   
-  <meta property="twitter:card" content="summary_large_image">
+
   
-  <meta property="twitter:site" content="@toomanyyifans">
-  <meta property="twitter:creator" content="@toomanyyifans">
-  
-  <meta property="og:site_name" content="Yifan Wang - ETH Zurich">
-  <meta property="og:url" content="https://yifita.github.io/publication/neural_rendering_review/">
-  <meta property="og:title" content="Advances in Neural Rendering | Yifan Wang - ETH Zurich">
-  <meta property="og:description" content="A review paper about the state-of-the-art in neural rendering."><meta property="og:image" content="https://yifita.github.io/publication/neural_rendering_review/featured.jpg">
-  <meta property="twitter:image" content="https://yifita.github.io/publication/neural_rendering_review/featured.jpg"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2021-12-10T00:00:00&#43;00:00">
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="Yifan Wang - ETH Zurich" />
+  <meta property="og:url" content="https://yifita.github.io/publication/neural_rendering_review/" />
+  <meta property="og:title" content="Advances in Neural Rendering | Yifan Wang - ETH Zurich" />
+  <meta property="og:description" content="A review paper about the state-of-the-art in neural rendering." /><meta property="og:image" content="https://yifita.github.io/publication/neural_rendering_review/featured.jpg" />
+    <meta property="twitter:image" content="https://yifita.github.io/publication/neural_rendering_review/featured.jpg" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-12-10T00:00:00&#43;00:00"
+      />
     
     <meta property="article:modified_time" content="2021-11-10T00:00:00&#43;00:00">
   
@@ -127,17 +311,6 @@
 
 
     
-
-
-
-
-
-
-
-
-
-
-  
 
 
 
@@ -164,12 +337,17 @@
   "datePublished": "2021-12-10T00:00:00Z",
   "dateModified": "2021-11-10T00:00:00Z",
   
+  "author": {
+    "@type": "Person",
+    "name": "Ayush Tewari"
+  },
+  
   "publisher": {
     "@type": "Organization",
     "name": "Yifan Wang - ETH Zurich",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://yifita.github.io/img/icon-512.png"
+      "url": "https://yifita.github.io/media/icon_hu039e7a8dee100027504ac14a50a2ed32_26438_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "A review paper about the state-of-the-art in neural rendering."
@@ -180,35 +358,7 @@
 
   
 
-
   
-
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
-<script>
-  window.addEventListener("load", function(){
-    window.cookieconsent.initialise({
-      "palette": {
-        "popup": {
-          "background": "#4caf50",
-          "text": "#fff"
-        },
-        "button": {
-          "background": "#fff",
-          "text": "#4caf50"
-        }
-      },
-      "theme": "classic",
-      "content": {
-        "message": "This website uses cookies to ensure you get the best experience on our website.",
-        "dismiss": "Got it!",
-        "link": "Learn more",
-        "href": "https://cookies.insites.com"
-      }
-    })});
-</script>
-
-
 
   
 
@@ -217,12 +367,26 @@
 
 
   <title>Advances in Neural Rendering | Yifan Wang - ETH Zurich</title>
-
 </head>
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
 
-  <aside class="search-results" id="search">
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="9fc200178eeb3364f42b6a834185d4bc" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.2da3b1fa37e894630bf6de39b1b694b3.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -231,16 +395,22 @@
           <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
         
       </div>
+
+      
+      
+
+      
 
     </section>
     <section class="section-search-results">
@@ -254,25 +424,49 @@
 </aside>
 
 
-  
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
-  <div class="container">
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
 
     
+    <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="/">Yifan Wang - ETH Zurich</a>
-      
-      <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span><i class="fas fa-bars"></i></span>
-      </button>
-      
+    </div>
+    
 
     
-    <div class="collapse navbar-collapse" id="navbar">
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Yifan Wang - ETH Zurich</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
 
       
-      
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav d-md-inline-flex">
         
 
         
@@ -284,16 +478,24 @@
         
 
         
+
         
         
         
         
+
         
           
+            
+            
           
           
             
-          
+            
+            
+              
+            
+            
           
         
 
@@ -313,10 +515,92 @@
         
 
         
+
         
         
         
         
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#news"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
         
 
         <li class="nav-item">
@@ -335,32 +619,18 @@
         
 
         
-        
+
         
         
         
         
 
-        <li class="nav-item">
-          <a class="nav-link " href="/talk/"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
         
           
-        
-
-        
-        
-        
-        
-        
+            
+            
+          
+          
         
 
         <li class="nav-item">
@@ -371,34 +641,58 @@
         
 
       
+
+        
       </ul>
-      <ul class="navbar-nav ml-auto">
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
       
 
-        
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
 
-        
-        <li class="nav-item">
-          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
-        
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
 
-        
+      
+      
 
-        
-        <li class="nav-item">
-          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-        </li>
-        
+    </ul>
 
-      </ul>
-
-    </div>
   </div>
 </nav>
 
 
-  <div class="pub">
+  </div>
+
+  <div class="page-body">
+    <div class="pub">
 
   
 
@@ -468,6 +762,90 @@ Ayush Tewari, Justus Thies, Ben Mildenhall, Pratul Srinivasan, Edgar Tretschk, <
 
   
     
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://yifita.github.io/publication/neural_rendering_review/&amp;text=Advances%20in%20Neural%20Rendering" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://yifita.github.io/publication/neural_rendering_review/&amp;t=Advances%20in%20Neural%20Rendering" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Advances%20in%20Neural%20Rendering&amp;body=https://yifita.github.io/publication/neural_rendering_review/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://yifita.github.io/publication/neural_rendering_review/&amp;title=Advances%20in%20Neural%20Rendering" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Advances%20in%20Neural%20Rendering%20https://yifita.github.io/publication/neural_rendering_review/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://yifita.github.io/publication/neural_rendering_review/&amp;title=Advances%20in%20Neural%20Rendering" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
 
   
 
@@ -475,17 +853,6 @@ Ayush Tewari, Justus Thies, Ben Mildenhall, Pratul Srinivasan, Edgar Tretschk, <
 
   
 
-
-
-
-
-
-
-
-
-
-
-  
 
 
 
@@ -506,23 +873,25 @@ Ayush Tewari, Justus Thies, Ben Mildenhall, Pratul Srinivasan, Edgar Tretschk, <
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2112.03243.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2112.03243.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
         data-filename="/publication/neural_rendering_review/cite.bib">
   Cite
-</button>
+</a>
 
 
 
 
 
   
-    
+  <a class="btn btn-outline-primary btn-page-header" href="/project/">
+    Project
+  </a>
   
 
 
@@ -557,148 +926,170 @@ Ayush Tewari, Justus Thies, Ben Mildenhall, Pratul Srinivasan, Edgar Tretschk, <
 
     
 
+
+
+
+
+
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/neural-rendering/">neural rendering</a>
+  <a class="badge badge-light" href="/tag/neural-rendering/">neural rendering</a>
   
-  <a class="badge badge-light" href="/tags/review/">review</a>
+  <a class="badge badge-light" href="/tag/review/">review</a>
   
 </div>
 
 
 
+<div class="share-box">
+  <ul class="share">
     
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://yifita.github.io/publication/neural_rendering_review/&amp;text=Advances%20in%20Neural%20Rendering" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://yifita.github.io/publication/neural_rendering_review/&amp;t=Advances%20in%20Neural%20Rendering" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Advances%20in%20Neural%20Rendering&amp;body=https://yifita.github.io/publication/neural_rendering_review/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://yifita.github.io/publication/neural_rendering_review/&amp;title=Advances%20in%20Neural%20Rendering" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Advances%20in%20Neural%20Rendering%20https://yifita.github.io/publication/neural_rendering_review/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://yifita.github.io/publication/neural_rendering_review/&amp;title=Advances%20in%20Neural%20Rendering" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
 
 
   </div>
 </div>
+  </div>
 
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
 
-
-      
-
-    
-    
-
-    
-    
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
-
-      
-
-      
-
-      
-      
-    
-
-    
-    
-
-    
-    
-
-    
-    
-    <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'results': "results found",
-        'no_results': "No results found"
-      };
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks"
-        };
-    </script>
-    
-
-    
-    
-
-    
-    
-    <script id="search-hit-fuse-template" type="text/x-template">
-      <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
-        </div>
-      </div>
-      </div>
-    </script>
-    
-
-    
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
-    
-
-    
-    
-
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    
-    
-    
-    <script src="/js/academic.min.f92d7215d2132cd354f657f0bc9cc542.js"></script>
-
-    
-
-
-
+  
 
 
 
   
-  <div class="container">
-    <footer class="site-footer">
+
   
+
+  
+
+  
+  
+
+
+
+
+
 
   <p class="powered-by">
     
-
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
-
     
-    <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
-      </a>
-    </span>
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
     
   </p>
 </footer>
 
+    </div>
+    
   </div>
-  
 
   
 <div id="modal" class="modal fade" role="dialog">
@@ -725,6 +1116,97 @@ Ayush Tewari, Justus Thies, Ben Mildenhall, Pratul Srinivasan, Edgar Tretschk, <
     </div>
   </div>
 </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.b206710415a50cb12ea588a8ed1fe3c5.js"></script>
+
+    
+
+
+
+
+
 
 </body>
 </html>

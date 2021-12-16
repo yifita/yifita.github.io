@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Yifan Wang - ETH Zurich</title>
+    <link>https://yifita.github.io/event/</link>
+      <atom:link href="https://yifita.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Feb 2021 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/media/icon_hu039e7a8dee100027504ac14a50a2ed32_26438_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://yifita.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Detail-Driven 3D Content Creation</title>
+      <link>https://yifita.github.io/talk/detail-driven-3d-content-creation/</link>
+      <pubDate>Wed, 03 Feb 2021 15:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/talk/detail-driven-3d-content-creation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pursuing high-resolution 3D Geometry with Deep Learning</title>
+      <link>https://yifita.github.io/talk/pursuing-high-resolution-3d-geometry-with-deep-learning/</link>
+      <pubDate>Thu, 11 Jun 2020 21:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/talk/pursuing-high-resolution-3d-geometry-with-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

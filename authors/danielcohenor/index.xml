@@ -5,9 +5,9 @@
     <link>https://yifita.github.io/authors/danielcohenor/</link>
       <atom:link href="https://yifita.github.io/authors/danielcohenor/index.xml" rel="self" type="application/rss+xml" />
     <description>DanielCohenor</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yifita.github.io/img/icon-192.png</url>
+      <url>https://yifita.github.io/media/icon_hu039e7a8dee100027504ac14a50a2ed32_26438_512x512_fill_lanczos_center_3.png</url>
       <title>DanielCohenor</title>
       <link>https://yifita.github.io/authors/danielcohenor/</link>
     </image>
@@ -17,13 +17,36 @@
       <link>https://yifita.github.io/publication/3pu/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/3pu/</guid>
-      <description>
+      <description>&lt;p&gt;
 
-&lt;p&gt;&lt;img src=&#34;teaser.png&#34; alt=&#34;teaser&#34; /&gt;&lt;/p&gt;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;teaser&#34; srcset=&#34;
+               /publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_403fe35eea01c862d9d7782de110b3f2.png 400w,
+               /publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_56fd086f5f1bfed34ccff2acff38b6f4.png 760w,
+               /publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_403fe35eea01c862d9d7782de110b3f2.png&#34;
+               width=&#34;760&#34;
+               height=&#34;148&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
-
-&lt;p&gt;&lt;center&gt;
+&lt;center&gt;
 $16\times$ upsampling from 625 points
 &lt;/center&gt;
 
@@ -32,81 +55,110 @@ $16\times$ upsampling from 625 points
 
 
 
-&lt;figure&gt;
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_sparse.png&#34; &gt;
-
-&lt;img src=&#34;figure_sparse.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
-
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;$16\times$ upsampling from 5000 points&lt;/center&gt;
 
 
 
 
 
 
-&lt;figure&gt;
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_dense.png&#34; &gt;
-
-&lt;img src=&#34;figure_dense.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
-
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;$16\times$ upsampling from scan data&lt;/center&gt;
 
 
-
-
-
-
-&lt;figure&gt;
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;real_scan.png&#34; &gt;
-
-&lt;img src=&#34;real_scan.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
-
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;$16\times$ upsampling from virtual scan data&lt;/center&gt;
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_46ecceca49bf37b93f376b6d786f94bd.png 400w,
+               /publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_3c2ed8e0adfe10d3d734d9f807780863.png 760w,
+               /publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_46ecceca49bf37b93f376b6d786f94bd.png&#34;
+               width=&#34;760&#34;
+               height=&#34;343&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;center&gt;$16\times$ upsampling from 5000 points&lt;/center&gt;
 
 
 
 
 
 
-&lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;scan.png&#34; &gt;
 
-&lt;img src=&#34;scan.png&#34; alt=&#34;&#34; &gt;
-&lt;/a&gt;
 
-&lt;/figure&gt;
-&lt;/p&gt;
 
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_40e045a89003dcd4995f9dd5d4b5d65e.png 400w,
+               /publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_07a54e6eed0cb5f41d1c5da462547054.png 760w,
+               /publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_40e045a89003dcd4995f9dd5d4b5d65e.png&#34;
+               width=&#34;760&#34;
+               height=&#34;531&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;center&gt;$16\times$ upsampling from scan data&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_777fe85ae13531d32d6456a4a9f4f382.png 400w,
+               /publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_4122e220a57ca94df431a51ac1f9a94b.png 760w,
+               /publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_777fe85ae13531d32d6456a4a9f4f382.png&#34;
+               width=&#34;760&#34;
+               height=&#34;687&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;center&gt;$16\times$ upsampling from virtual scan data&lt;/center&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_157938174fe19d0f82fe7f5812222c09.png 400w,
+               /publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_fb3ba9a67f7c936b616280273a5bcbd4.png 760w,
+               /publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_157938174fe19d0f82fe7f5812222c09.png&#34;
+               width=&#34;704&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-
 &lt;p&gt;&lt;em&gt;PU-Net&lt;/em&gt;: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &amp;ldquo;Pu-net: Point cloud upsampling network&amp;rdquo;, CVPR 2018&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;EC-Net&lt;/em&gt;: L. Yu, X. Li, C.-W. Fu, D. Cohen-Or, and P.-A. Heng, &amp;ldquo;Ec-net: an edge-aware point set consolidation network&amp;rdquo;,  ECCV 2018&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;EAR&lt;/em&gt;: H. Huang, S. Wu, M. Gong, D. Cohen-Or, U. Ascher, and H. Zhang, &amp;ldquo;Edge-aware point set resampling&amp;rdquo;, ACM ToG 2013&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;WLOP&lt;/em&gt;: H. Huang, D. Li, H. Zhang, U. Ascher, and D. Cohen-Or, &amp;ldquo;Consolidation of unorganized point clouds for surface reconstruction&amp;rdquo;, SIGGRAPH Asia 2009&lt;/p&gt;
 </description>
     </item>
