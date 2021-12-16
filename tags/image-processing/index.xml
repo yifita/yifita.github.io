@@ -17,17 +17,7 @@
       <link>https://yifita.github.io/publication/variational_blindsr/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/variational_blindsr/</guid>
-      <description>
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;overview_v3.png&#34; alt=&#34;overview&#34; /&gt;
-In blind super-resolution, the degradation kernel k applied on the high resolution image to obtain the low resolution image $I_l$ is unknown. Our pipeline is duplicated for two different kernels (a) and (b): the degradation-aware generator ($\mathcal{F}_g$) computes a high resolution output according to the provided blur kernel k. We note that a NN $\mathcal{F}_k$ is used to map the kernels to a low dimensional representation. The two kernels will result in different high resolution estimates. The kernel (a) farther from the unknown original degradation leads to more artifacts. To detect this, we propose a kernel discriminator network ($\mathcal{F}_d$) predicting the error due to using the incorrect kernel. By taking advantage of these two networks, we can express kernel estimation as finding the blur kernel resulting in the least amount of errors and artifacts in the predicted high resolution image (See text for details). Photo Credits: Pixabay/pexels.com.&lt;/p&gt;
-
-&lt;h2 id=&#34;results-screenshots-from-the-paper&#34;&gt;Results (screenshots from the paper)&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;comparison.png&#34; alt=&#34;comparison&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen Lombardi | Yifan Wang - ETH Zurich</title>
+    <link>https://yifita.github.io/authors/stephen-lombardi/</link>
+      <atom:link href="https://yifita.github.io/authors/stephen-lombardi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephen Lombardi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/img/icon-192.png</url>
+      <title>Stephen Lombardi</title>
+      <link>https://yifita.github.io/authors/stephen-lombardi/</link>
+    </image>
+    
+    <item>
+      <title>Advances in Neural Rendering</title>
+      <link>https://yifita.github.io/publication/neural_rendering_review/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/publication/neural_rendering_review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

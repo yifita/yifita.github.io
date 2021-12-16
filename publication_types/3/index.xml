@@ -5,12 +5,28 @@
     <link>https://yifita.github.io/publication_types/3/</link>
       <atom:link href="https://yifita.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yifita.github.io/img/icon-192.png</url>
       <title>3</title>
       <link>https://yifita.github.io/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>Input-level Inductive Biases for 3D Reconstruction</title>
+      <link>https://yifita.github.io/publication/iib/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/publication/iib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in Neural Rendering</title>
+      <link>https://yifita.github.io/publication/neural_rendering_review/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/publication/neural_rendering_review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Geometry-Consistent Neural Shape Representation with Implicit Displacement Fields</title>

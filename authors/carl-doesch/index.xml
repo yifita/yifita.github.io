@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carl Doesch | Yifan Wang - ETH Zurich</title>
+    <link>https://yifita.github.io/authors/carl-doesch/</link>
+      <atom:link href="https://yifita.github.io/authors/carl-doesch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carl Doesch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yifita.github.io/img/icon-192.png</url>
+      <title>Carl Doesch</title>
+      <link>https://yifita.github.io/authors/carl-doesch/</link>
+    </image>
+    
+    <item>
+      <title>Input-level Inductive Biases for 3D Reconstruction</title>
+      <link>https://yifita.github.io/publication/iib/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/publication/iib/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

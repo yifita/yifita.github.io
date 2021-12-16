@@ -73,8 +73,18 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.465bcbb6baf55846cca9d79ec7e40df4.css">
+  <link rel="stylesheet" href="/css/academic.min.71f2032bbba474bfbfbfd7fa8e2560ba.css">
 
+  
+    
+    
+    
+    
+      
+    
+    
+    
+    <link rel="stylesheet" href="/css/academic.831447f3344136d9aa444c025c34ff81.css">
   
 
   
@@ -104,8 +114,8 @@
   <meta property="og:site_name" content="Yifan Wang - ETH Zurich">
   <meta property="og:url" content="https://yifita.github.io/publication/deep_cage/">
   <meta property="og:title" content="Neural Cages for Detail-Preserving 3D Deformations | Yifan Wang - ETH Zurich">
-  <meta property="og:description" content="We propose a novel learnable representation for detail-preserving shape deformation extending a traditional cage-based deformation technique. We demonstrate the utility of our method for synthesizing shape variations and deformation transfer."><meta property="og:image" content="https://yifita.github.io/publication/deep_cage/featured.jpg">
-  <meta property="twitter:image" content="https://yifita.github.io/publication/deep_cage/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="We propose a novel learnable representation for detail-preserving shape deformation extending a traditional cage-based deformation technique. We demonstrate the utility of our method for synthesizing shape variations and deformation transfer."><meta property="og:image" content="https://yifita.github.io/publication/deep_cage/_featured.jpg">
+  <meta property="twitter:image" content="https://yifita.github.io/publication/deep_cage/_featured.jpg"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-03-14T00:00:00&#43;00:00">
@@ -150,7 +160,7 @@
   "headline": "Neural Cages for Detail-Preserving 3D Deformations",
   
   "image": [
-    "https://yifita.github.io/publication/deep_cage/featured.jpg"
+    "https://yifita.github.io/publication/deep_cage/_featured.jpg"
   ],
   
   "datePublished": "2020-03-14T00:00:00Z",
@@ -415,12 +425,20 @@
 
 
 
+
+
+
+  
+  
+    
+  
+
+
 <div class="article-container pt-3">
   <h1>Neural Cages for Detail-Preserving 3D Deformations</h1>
 
   
 
-  
   
 
 
@@ -594,20 +612,8 @@
 
 
   
-</div>
-
-
-
-  <div class="article-container">
-
-    
-    <h3>Abstract</h3>
-    <p class="pub-abstract">We propose a novel learnable representation for detail-preserving shape deformation. The goal of our method is to warp a source shape to match the general structure of a target shape, while preserving the surface details of the source. Our method extends a traditional cage-based deformation technique, where the source shape is enclosed by a coarse control mesh termed cage, and translations prescribed on the cage vertices are interpolated to any point on the source mesh via special weight functions. The use of this sparse cage scaffolding enables preserving surface details regardless of the shape’s intricacy and topology. Our key contribution is a novel neural network architecture for predicting deformations by controlling the cage. We incorporate a differentiable cage-based deformation module in our architecture, and train our network end-to-end. Our method can be trained with common collections of 3D models in an unsupervised fashion, without any cage-specific annotations. We demonstrate the utility of our method for synthesizing shape variations and deformation transfer.</p>
-    
-
     
     <div class="row">
-      <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
@@ -621,23 +627,40 @@
           </div>
         </div>
       </div>
-      <div class="col-md-1"></div>
     </div>
     <div class="d-md-none space-below"></div>
     
 
     
     <div class="row">
-      <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
           <div class="col-12 col-md-9">Conference on Computer Vision and Pattern Recognition</div>
         </div>
       </div>
-      <div class="col-md-1"></div>
     </div>
     <div class="d-md-none space-below"></div>
+    
+   
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 596px;">
+  <div style="position: relative">
+    <img src="/publication/deep_cage/_featured_hu17fc4024954426989d1407d83deba033_407708_720x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
+    <span class="article-header-caption">Applications of our neural cage-based deformation method.</span>
+  </div>
+</div>
+
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">We propose a novel learnable representation for detail-preserving shape deformation. The goal of our method is to warp a source shape to match the general structure of a target shape, while preserving the surface details of the source. Our method extends a traditional cage-based deformation technique, where the source shape is enclosed by a coarse control mesh termed cage, and translations prescribed on the cage vertices are interpolated to any point on the source mesh via special weight functions. The use of this sparse cage scaffolding enables preserving surface details regardless of the shape’s intricacy and topology. Our key contribution is a novel neural network architecture for predicting deformations by controlling the cage. We incorporate a differentiable cage-based deformation module in our architecture, and train our network end-to-end. Our method can be trained with common collections of 3D models in an unsupervised fashion, without any cage-specific annotations. We demonstrate the utility of our method for synthesizing shape variations and deformation transfer.</p>
     
 
     <div class="space-below"></div>
@@ -673,16 +696,13 @@ the underlying shape, we are able to seamlessly combine
 machine learning and traditional geometry processing to
 generalize to never-observed characters, even if the novel source and target characters are morphologically very different from the both the template source.</p>
 
-<p><img src="teaser.jpg" alt="teaser" /></p>
-
 <h2 id="talk">Talk</h2>
 
-<p>
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="//www.youtube.com/embed/UZLAj2xTojY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-This is the talk I&rsquo;ll be giving virtually for CVPR2020.</p>
 </div>
 
     

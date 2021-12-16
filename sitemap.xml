@@ -4,19 +4,207 @@
   
   <url>
     <loc>https://yifita.github.io/publication_types/3/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/andrew-zisserman/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yifita.github.io/authors/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://yifita.github.io/authors/carl-doesch/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/publication/iib/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/joao-careira/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/publication_types/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/publication/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/relja-arandjelovi%C4%87/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/tags/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/yifanwang/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yifita.github.io/tags/deep-learning/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/tags/depth-estimation/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/tags/large-scale/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/tags/transformer/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/publication/neural_rendering_review/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/ayush-tewari/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/ben-mildenhall/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/christian-theobalt/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/christoph-lassner/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/edgar-tretschk/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/gordon-wetzstein/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/jonathan-t-barron/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/justus-thies/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/matthias-niessner/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/michael-zollhoefer/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/pratul-srinivasan/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/ricardo-martin-brualla/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/stephen-lombardi/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/tomas-simon/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/vincent-sitzmann/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/authors/vladislav-golyanik/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/tags/neural-rendering/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yifita.github.io/tags/review/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -35,34 +223,6 @@
     <loc>https://yifita.github.io/authors/olgasorkine/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yifita.github.io/publication_types/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yifita.github.io/publication/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yifita.github.io/tags/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yifita.github.io/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yifita.github.io/authors/yifanwang/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -296,7 +456,7 @@
   
   <url>
     <loc>https://yifita.github.io/talk/</loc>
-    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <lastmod>2017-01-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>

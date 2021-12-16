@@ -5,12 +5,28 @@
     <link>https://yifita.github.io/authors/yifanwang/</link>
       <atom:link href="https://yifita.github.io/authors/yifanwang/index.xml" rel="self" type="application/rss+xml" />
     <description>YifanWang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yifita.github.io/img/icon-192.png</url>
       <title>YifanWang</title>
       <link>https://yifita.github.io/authors/yifanwang/</link>
     </image>
+    
+    <item>
+      <title>Input-level Inductive Biases for 3D Reconstruction</title>
+      <link>https://yifita.github.io/publication/iib/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/publication/iib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in Neural Rendering</title>
+      <link>https://yifita.github.io/publication/neural_rendering_review/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://yifita.github.io/publication/neural_rendering_review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Geometry-Consistent Neural Shape Representation with Implicit Displacement Fields</title>
@@ -376,16 +392,13 @@ the underlying shape, we are able to seamlessly combine
 machine learning and traditional geometry processing to
 generalize to never-observed characters, even if the novel source and target characters are morphologically very different from the both the template source.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;teaser.jpg&#34; alt=&#34;teaser&#34; /&gt;&lt;/p&gt;
-
 &lt;h2 id=&#34;talk&#34;&gt;Talk&lt;/h2&gt;
 
-&lt;p&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/UZLAj2xTojY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-This is the talk I&amp;rsquo;ll be giving virtually for CVPR2020.&lt;/p&gt;
 </description>
     </item>
     
@@ -394,17 +407,7 @@ This is the talk I&amp;rsquo;ll be giving virtually for CVPR2020.&lt;/p&gt;
       <link>https://yifita.github.io/publication/variational_blindsr/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/publication/variational_blindsr/</guid>
-      <description>
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;overview_v3.png&#34; alt=&#34;overview&#34; /&gt;
-In blind super-resolution, the degradation kernel k applied on the high resolution image to obtain the low resolution image $I_l$ is unknown. Our pipeline is duplicated for two different kernels (a) and (b): the degradation-aware generator ($\mathcal{F}_g$) computes a high resolution output according to the provided blur kernel k. We note that a NN $\mathcal{F}_k$ is used to map the kernels to a low dimensional representation. The two kernels will result in different high resolution estimates. The kernel (a) farther from the unknown original degradation leads to more artifacts. To detect this, we propose a kernel discriminator network ($\mathcal{F}_d$) predicting the error due to using the incorrect kernel. By taking advantage of these two networks, we can express kernel estimation as finding the blur kernel resulting in the least amount of errors and artifacts in the predicted high resolution image (See text for details). Photo Credits: Pixabay/pexels.com.&lt;/p&gt;
-
-&lt;h2 id=&#34;results-screenshots-from-the-paper&#34;&gt;Results (screenshots from the paper)&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;comparison.png&#34; alt=&#34;comparison&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -602,7 +605,7 @@ Here&amp;rsquo;s the video that talks about our work.
     <item>
       <title>YifanWang</title>
       <link>https://yifita.github.io/authors/yifanwang/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://yifita.github.io/authors/yifanwang/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a fourth-year PhD student in the &lt;a href=&#34;https://igl.ethz.ch&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;I&lt;/strong&gt;nteractive &lt;strong&gt;G&lt;/strong&gt;eometry &lt;strong&gt;L&lt;/strong&gt;ab&lt;/a&gt; at &lt;a href=&#34;https://www.ethz.ch/&#34; target=&#34;_blank&#34;&gt;ETH Zurich&lt;/a&gt; supervised by &lt;a href=&#34;https://igl.ethz.ch/people/sorkine/&#34; target=&#34;_blank&#34;&gt;Prof. Olga Sorkine-Hornung&lt;/a&gt;.
 My area of research lies in applying machine learning techniques, especially deep learning, to challenging image and geometry processing problems.
