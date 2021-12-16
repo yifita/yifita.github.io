@@ -982,8 +982,8 @@ $16\times$ upsampling from 625 points
 &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;MsLapSRN: Lai, Wei-Sheng, et al. &amp;ldquo;Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks.&amp;rdquo; arXiv preprint arXiv:1710.01992 (2017).&lt;/p&gt;
-&lt;p&gt;EDSR, MDSR: Lim, Bee, et al. &amp;ldquo;Enhanced deep residual networks for single image super-resolution.&amp;rdquo; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops. Vol. 1. No. 2. 2017.&lt;/p&gt;
-&lt;p&gt;RDN:Zhang, Yulun, et al. &amp;ldquo;Residual Dense Network for Image Super-Resolution.&amp;rdquo;  The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018.&lt;/p&gt;
+&lt;p&gt;EDSR, MDSR: Lim, Bee, et al. &amp;ldquo;Enhanced deep residual networks for single image super-resolution.&amp;rdquo; The IEEE CVPR (CVPR) Workshops. Vol. 1. No. 2. 2017.&lt;/p&gt;
+&lt;p&gt;RDN:Zhang, Yulun, et al. &amp;ldquo;Residual Dense Network for Image Super-Resolution.&amp;rdquo;  The IEEE CVPR (CVPR). 2018.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;!-- ### Accompanying Video ###
 (Best viewed in full-screen mode)
