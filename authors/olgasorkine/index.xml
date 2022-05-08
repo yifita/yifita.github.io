@@ -86,10 +86,10 @@ But in reality, due to the &lt;a href=&#34;https://arxiv.org/abs/1806.08734&#34;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;overview&#34; srcset=&#34;
-               /publication/idf/overview_hu603fcdbc0f862d5f93648a4d86a17b38_159774_ff949b5de5888780dc08e9c5d4d1d7eb.jpg 400w,
-               /publication/idf/overview_hu603fcdbc0f862d5f93648a4d86a17b38_159774_c74dec11c075e394ffebae6cdec9f8da.jpg 760w,
-               /publication/idf/overview_hu603fcdbc0f862d5f93648a4d86a17b38_159774_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/idf/overview_hu603fcdbc0f862d5f93648a4d86a17b38_159774_ff949b5de5888780dc08e9c5d4d1d7eb.jpg&#34;
+               /publication/idf/overview_hu603fcdbc0f862d5f93648a4d86a17b38_159774_531174b9b84250e8d7a69996fd3818c5.webp 400w,
+               /publication/idf/overview_hu603fcdbc0f862d5f93648a4d86a17b38_159774_a3fb9ed053aa2b5a9085291652f84010.webp 760w,
+               /publication/idf/overview_hu603fcdbc0f862d5f93648a4d86a17b38_159774_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/idf/overview_hu603fcdbc0f862d5f93648a4d86a17b38_159774_531174b9b84250e8d7a69996fd3818c5.webp&#34;
                width=&#34;760&#34;
                height=&#34;183&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -115,11 +115,13 @@ In this image below, the bumps on the sphere is added by offsetting samples of t
 
 
 
+
+
 &lt;figure  id=&#34;figure-source-httpswwwyankodesigncomimagesdesign_news201904how-to-create-realistic-textures-with-displacement-maps-in-keyshot-8&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.yankodesign.com/images/design_news/2019/04/how-to-create-realistic-textures-with-displacement-maps-in-keyshot-8/keyshot_displacement_maps_3.jpg&#34; alt=&#34;source: https://www.yankodesign.com/images/design_news/2019/04/how-to-create-realistic-textures-with-displacement-maps-in-keyshot-8&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      source: &lt;a href=&#34;https://www.yankodesign.com/images/design_news/2019/04/how-to-create-realistic-textures-with-displacement-maps-in-keyshot-8&#34;&gt;https://www.yankodesign.com/images/design_news/2019/04/how-to-create-realistic-textures-with-displacement-maps-in-keyshot-8&lt;/a&gt;
+      source: &lt;a href=&#34;https://www.yankodesign.com/images/design_news/2019/04/how-to-create-realistic-textures-with-displacement-maps-in-keyshot-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.yankodesign.com/images/design_news/2019/04/how-to-create-realistic-textures-with-displacement-maps-in-keyshot-8&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Displacement mapping is discrete and defined on the surface.
 So in this paper, we are tasked to extend the definition of displacement mapping to the continous $\mathbb{R}^3$ domain.
@@ -142,13 +144,15 @@ This is illustratively shown in the figure below (please check our paper for the
 
 
 
+
+
 &lt;figure  id=&#34;figure-implicit-displacement-field-in-1d&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Implicit displacement field in 1D.&#34; srcset=&#34;
-               /publication/idf/1D-overview_hu54d91a2bab3bb3210b563591de8feb7d_132131_674a2c364e0950aab4dd60742ca09e50.jpg 400w,
-               /publication/idf/1D-overview_hu54d91a2bab3bb3210b563591de8feb7d_132131_e6d97defbbdf6beae4583925c32f2e9a.jpg 760w,
-               /publication/idf/1D-overview_hu54d91a2bab3bb3210b563591de8feb7d_132131_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/idf/1D-overview_hu54d91a2bab3bb3210b563591de8feb7d_132131_674a2c364e0950aab4dd60742ca09e50.jpg&#34;
+               /publication/idf/1D-overview_hu54d91a2bab3bb3210b563591de8feb7d_132131_1a0da4cea4b216b43ee9609b48ce213e.webp 400w,
+               /publication/idf/1D-overview_hu54d91a2bab3bb3210b563591de8feb7d_132131_383d2e81fb692ddf626cec98b578015f.webp 760w,
+               /publication/idf/1D-overview_hu54d91a2bab3bb3210b563591de8feb7d_132131_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/idf/1D-overview_hu54d91a2bab3bb3210b563591de8feb7d_132131_1a0da4cea4b216b43ee9609b48ce213e.webp&#34;
                width=&#34;480px&#34;
                height=&#34;388&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -190,13 +194,15 @@ is created, the displacement is independent of deformations of the base surface.
 
 
 
+
+
 &lt;figure  id=&#34;figure-comparison-between-transferable-and-non-transferable-implicit-displacement&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Comparison between transferable and non-transferable implicit displacement.&#34; srcset=&#34;
-               /publication/idf/transferable_net_hu2c1d8cbdec6fe93b34b727638a5f0023_163628_49a27eef9043d1eee4e2c8fb1b35e2b4.jpg 400w,
-               /publication/idf/transferable_net_hu2c1d8cbdec6fe93b34b727638a5f0023_163628_fbd8c6bbc2d59d26de4d6e28cbd5f884.jpg 760w,
-               /publication/idf/transferable_net_hu2c1d8cbdec6fe93b34b727638a5f0023_163628_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/idf/transferable_net_hu2c1d8cbdec6fe93b34b727638a5f0023_163628_49a27eef9043d1eee4e2c8fb1b35e2b4.jpg&#34;
+               /publication/idf/transferable_net_hu2c1d8cbdec6fe93b34b727638a5f0023_163628_ecec9f6cc054f94d7ea800b0131a4a2c.webp 400w,
+               /publication/idf/transferable_net_hu2c1d8cbdec6fe93b34b727638a5f0023_163628_5d4443669e124ded876b3e3aa6866257.webp 760w,
+               /publication/idf/transferable_net_hu2c1d8cbdec6fe93b34b727638a5f0023_163628_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/idf/transferable_net_hu2c1d8cbdec6fe93b34b727638a5f0023_163628_ecec9f6cc054f94d7ea800b0131a4a2c.webp&#34;
                width=&#34;760&#34;
                height=&#34;310&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -219,13 +225,15 @@ is created, the displacement is independent of deformations of the base surface.
 
 
 
+
+
 &lt;figure  id=&#34;figure-quantitative-evaluation-note-that-nglod-lod6-requires-storing-more-than-300-times-as-many-parameters-as-our-model&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Quantitative evaluation. Note that NGLOD (LOD6) requires storing more than 300 times as many parameters as our model.&#34; srcset=&#34;
-               /publication/idf/evaluation_table_hu4b0245dd5f08f0c7bba12929e3d49184_98997_0c2a63385957978d7a0ca163dc8f9992.png 400w,
-               /publication/idf/evaluation_table_hu4b0245dd5f08f0c7bba12929e3d49184_98997_3e55cd4703e941bf4fccadf5216bec74.png 760w,
-               /publication/idf/evaluation_table_hu4b0245dd5f08f0c7bba12929e3d49184_98997_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/idf/evaluation_table_hu4b0245dd5f08f0c7bba12929e3d49184_98997_0c2a63385957978d7a0ca163dc8f9992.png&#34;
+               /publication/idf/evaluation_table_hu4b0245dd5f08f0c7bba12929e3d49184_98997_e91864e29cbff3d2871d8d4acad1b6af.webp 400w,
+               /publication/idf/evaluation_table_hu4b0245dd5f08f0c7bba12929e3d49184_98997_45104c58adc24b48f20d428228f0297a.webp 760w,
+               /publication/idf/evaluation_table_hu4b0245dd5f08f0c7bba12929e3d49184_98997_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/idf/evaluation_table_hu4b0245dd5f08f0c7bba12929e3d49184_98997_e91864e29cbff3d2871d8d4acad1b6af.webp&#34;
                width=&#34;760&#34;
                height=&#34;250&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -247,13 +255,15 @@ is created, the displacement is independent of deformations of the base surface.
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /publication/idf/camera_compressed_hud4747fbae533fc4a46b5925ca8f76b5e_102021_632b740227d0828e1c05425508bcfddc.jpg 400w,
-               /publication/idf/camera_compressed_hud4747fbae533fc4a46b5925ca8f76b5e_102021_30bef45d185e6dd012586662a8bdb830.jpg 760w,
-               /publication/idf/camera_compressed_hud4747fbae533fc4a46b5925ca8f76b5e_102021_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/idf/camera_compressed_hud4747fbae533fc4a46b5925ca8f76b5e_102021_632b740227d0828e1c05425508bcfddc.jpg&#34;
+               /publication/idf/camera_compressed_hud4747fbae533fc4a46b5925ca8f76b5e_102021_9f327607864532b06ffd7ca89dd85fac.webp 400w,
+               /publication/idf/camera_compressed_hud4747fbae533fc4a46b5925ca8f76b5e_102021_5781759c5f8b9d91e37b05c7d222d82a.webp 760w,
+               /publication/idf/camera_compressed_hud4747fbae533fc4a46b5925ca8f76b5e_102021_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/idf/camera_compressed_hud4747fbae533fc4a46b5925ca8f76b5e_102021_9f327607864532b06ffd7ca89dd85fac.webp&#34;
                width=&#34;760&#34;
                height=&#34;386&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -272,13 +282,15 @@ is created, the displacement is independent of deformations of the base surface.
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /publication/idf/dragon_wing_compressed_hud4747fbae533fc4a46b5925ca8f76b5e_107650_7ddfe0746f64289ad262f07d77721012.jpg 400w,
-               /publication/idf/dragon_wing_compressed_hud4747fbae533fc4a46b5925ca8f76b5e_107650_c00d21af88e117418494ed815179da8d.jpg 760w,
-               /publication/idf/dragon_wing_compressed_hud4747fbae533fc4a46b5925ca8f76b5e_107650_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/idf/dragon_wing_compressed_hud4747fbae533fc4a46b5925ca8f76b5e_107650_7ddfe0746f64289ad262f07d77721012.jpg&#34;
+               /publication/idf/dragon_wing_compressed_hud4747fbae533fc4a46b5925ca8f76b5e_107650_8ae19647a4a76cca83e6580352e968df.webp 400w,
+               /publication/idf/dragon_wing_compressed_hud4747fbae533fc4a46b5925ca8f76b5e_107650_e2c1875cf094b48ed256fde8868be676.webp 760w,
+               /publication/idf/dragon_wing_compressed_hud4747fbae533fc4a46b5925ca8f76b5e_107650_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/idf/dragon_wing_compressed_hud4747fbae533fc4a46b5925ca8f76b5e_107650_8ae19647a4a76cca83e6580352e968df.webp&#34;
                width=&#34;760&#34;
                height=&#34;386&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -298,13 +310,15 @@ is created, the displacement is independent of deformations of the base surface.
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /publication/idf/shorts_compressed_hue7f9af77642771a844c2b0609ecfb746_47145_75ace1fe4347da807b1ca0edc983a4c5.jpg 400w,
-               /publication/idf/shorts_compressed_hue7f9af77642771a844c2b0609ecfb746_47145_7ebb3cf89f8347f40523b393a9323ce5.jpg 760w,
-               /publication/idf/shorts_compressed_hue7f9af77642771a844c2b0609ecfb746_47145_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/idf/shorts_compressed_hue7f9af77642771a844c2b0609ecfb746_47145_75ace1fe4347da807b1ca0edc983a4c5.jpg&#34;
+               /publication/idf/shorts_compressed_hue7f9af77642771a844c2b0609ecfb746_47145_393df1445529da3ce0de84e91878f443.webp 400w,
+               /publication/idf/shorts_compressed_hue7f9af77642771a844c2b0609ecfb746_47145_488dcaf0a3e446329b2cd4b74afe90c6.webp 760w,
+               /publication/idf/shorts_compressed_hue7f9af77642771a844c2b0609ecfb746_47145_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/idf/shorts_compressed_hue7f9af77642771a844c2b0609ecfb746_47145_393df1445529da3ce0de84e91878f443.webp&#34;
                width=&#34;760&#34;
                height=&#34;410&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -323,36 +337,38 @@ is created, the displacement is independent of deformations of the base surface.
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /publication/idf/faces_compressed_hu6a0621bc777fb7a9da9ff6d21ac20822_58130_4d83e9ebbd8f5b3e369754a701b4cd3b.jpg 400w,
-               /publication/idf/faces_compressed_hu6a0621bc777fb7a9da9ff6d21ac20822_58130_925cdffc26bc92a0423ace6c4c1f0092.jpg 760w,
-               /publication/idf/faces_compressed_hu6a0621bc777fb7a9da9ff6d21ac20822_58130_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/idf/faces_compressed_hu6a0621bc777fb7a9da9ff6d21ac20822_58130_4d83e9ebbd8f5b3e369754a701b4cd3b.jpg&#34;
+               /publication/idf/faces_compressed_hu6a0621bc777fb7a9da9ff6d21ac20822_58130_fc86b0f9405b1c82d53abc0da988fe92.webp 400w,
+               /publication/idf/faces_compressed_hu6a0621bc777fb7a9da9ff6d21ac20822_58130_594491e536c2a6faca2fffb0d987b6b9.webp 760w,
+               /publication/idf/faces_compressed_hu6a0621bc777fb7a9da9ff6d21ac20822_58130_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/idf/faces_compressed_hu6a0621bc777fb7a9da9ff6d21ac20822_58130_fc86b0f9405b1c82d53abc0da988fe92.webp&#34;
                width=&#34;760&#34;
                height=&#34;382&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2 id=&#34;future-work&#34;&gt;Future work&lt;/h2&gt;
 &lt;p&gt;We hope to explore further in the realm of implicit shape editting! I&amp;rsquo;m looking forward to your inputs and ideas for collaborations.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;Chabra, Rohan, et al. &amp;ldquo;Deep local shapes: Learning local sdf priors for detailed 3d reconstruction.&amp;rdquo; European Conference on Computer Vision. Springer, Cham, 2020.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;Takikawa, Towaki, et al. &amp;ldquo;Neural geometric level of detail: Real-time rendering with implicit 3D shapes.&amp;rdquo; arXiv preprint arXiv:2101.10994 (2021).&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
 &lt;p&gt;Sitzmann, Vincent, et al. &amp;ldquo;Implicit neural representations with periodic activation functions.&amp;rdquo; Advances in Neural Information Processing Systems 33 (2020).&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
 &lt;p&gt;Mildenhall, Ben, et al. &amp;ldquo;Nerf: Representing scenes as neural radiance fields for view synthesis.&amp;rdquo; European Conference on Computer Vision. Springer, Cham, 2020.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -385,10 +401,10 @@ is created, the displacement is independent of deformations of the base surface.
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;teaser&#34; srcset=&#34;
-               /publication/iso_points/teaser_hu80b79292638aae25df499a8d7dc77d01_777796_c4a9801490fc306fbc3acdba65d334fd.png 400w,
-               /publication/iso_points/teaser_hu80b79292638aae25df499a8d7dc77d01_777796_572f823d76883eefe2c8da3e349cf268.png 760w,
-               /publication/iso_points/teaser_hu80b79292638aae25df499a8d7dc77d01_777796_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/iso_points/teaser_hu80b79292638aae25df499a8d7dc77d01_777796_c4a9801490fc306fbc3acdba65d334fd.png&#34;
+               /publication/iso_points/teaser_hu80b79292638aae25df499a8d7dc77d01_777796_1ef04da86b868f3dcaf33c1d6935ac73.webp 400w,
+               /publication/iso_points/teaser_hu80b79292638aae25df499a8d7dc77d01_777796_60132638dd7dc1c68cfdecd882805afa.webp 760w,
+               /publication/iso_points/teaser_hu80b79292638aae25df499a8d7dc77d01_777796_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/iso_points/teaser_hu80b79292638aae25df499a8d7dc77d01_777796_1ef04da86b868f3dcaf33c1d6935ac73.webp&#34;
                width=&#34;739&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -422,10 +438,10 @@ to improve the topological accuracy of the reconstructed surface&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;overview&#34; srcset=&#34;
-               /publication/iso_points/overview_hu0c4236b94b99942f60443bad6e5b1405_288338_e2eab804711dcd67c898c44440754cfa.png 400w,
-               /publication/iso_points/overview_hu0c4236b94b99942f60443bad6e5b1405_288338_30a2abcd8e9beb40b2e712dde4cc2b7a.png 760w,
-               /publication/iso_points/overview_hu0c4236b94b99942f60443bad6e5b1405_288338_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/iso_points/overview_hu0c4236b94b99942f60443bad6e5b1405_288338_e2eab804711dcd67c898c44440754cfa.png&#34;
+               /publication/iso_points/overview_hu0c4236b94b99942f60443bad6e5b1405_288338_1f9f2b7f0ce1cc6998cd5a9351a409f6.webp 400w,
+               /publication/iso_points/overview_hu0c4236b94b99942f60443bad6e5b1405_288338_aa3a6cf9dca09e79bc68c3da5a703fe4.webp 760w,
+               /publication/iso_points/overview_hu0c4236b94b99942f60443bad6e5b1405_288338_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/iso_points/overview_hu0c4236b94b99942f60443bad6e5b1405_288338_1f9f2b7f0ce1cc6998cd5a9351a409f6.webp&#34;
                width=&#34;760&#34;
                height=&#34;387&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -476,10 +492,10 @@ We efficiently extract a dense, uniformly distributed set of iso-points as an ex
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;overview&#34; srcset=&#34;
-               /publication/deep_cage/overview_huce44a8d917894b13664a2dd0ef2adf56_275854_c7bf1e12bf707e050de7525a93703aab.png 400w,
-               /publication/deep_cage/overview_huce44a8d917894b13664a2dd0ef2adf56_275854_36b247ef496add211d704eca55c02d58.png 760w,
-               /publication/deep_cage/overview_huce44a8d917894b13664a2dd0ef2adf56_275854_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/deep_cage/overview_huce44a8d917894b13664a2dd0ef2adf56_275854_c7bf1e12bf707e050de7525a93703aab.png&#34;
+               /publication/deep_cage/overview_huce44a8d917894b13664a2dd0ef2adf56_275854_9f9ea1433ebeb41a46aaa0460a37652e.webp 400w,
+               /publication/deep_cage/overview_huce44a8d917894b13664a2dd0ef2adf56_275854_142e69f16b1fdbc45400f24343727424.webp 760w,
+               /publication/deep_cage/overview_huce44a8d917894b13664a2dd0ef2adf56_275854_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/deep_cage/overview_huce44a8d917894b13664a2dd0ef2adf56_275854_9f9ea1433ebeb41a46aaa0460a37652e.webp&#34;
                width=&#34;600&#34;
                height=&#34;277&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -511,10 +527,10 @@ of artist-generated assets.
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;comparison&#34; srcset=&#34;
-               /publication/deep_cage/comparison_hud82a3f8c98c56d6c297225582a652c0c_618165_593ffdaca5a88ad377145d2a31f23b90.png 400w,
-               /publication/deep_cage/comparison_hud82a3f8c98c56d6c297225582a652c0c_618165_4af48eb63123ed4a0cafa467fb9c3fdf.png 760w,
-               /publication/deep_cage/comparison_hud82a3f8c98c56d6c297225582a652c0c_618165_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/deep_cage/comparison_hud82a3f8c98c56d6c297225582a652c0c_618165_593ffdaca5a88ad377145d2a31f23b90.png&#34;
+               /publication/deep_cage/comparison_hud82a3f8c98c56d6c297225582a652c0c_618165_d73ba3bca739c64ff17ec484b237faf7.webp 400w,
+               /publication/deep_cage/comparison_hud82a3f8c98c56d6c297225582a652c0c_618165_817c254dceb92a998b36de8941f5d6f6.webp 760w,
+               /publication/deep_cage/comparison_hud82a3f8c98c56d6c297225582a652c0c_618165_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/deep_cage/comparison_hud82a3f8c98c56d6c297225582a652c0c_618165_d73ba3bca739c64ff17ec484b237faf7.webp&#34;
                width=&#34;760&#34;
                height=&#34;542&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -540,10 +556,10 @@ of artist-generated assets.
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;dt&#34; srcset=&#34;
-               /publication/deep_cage/deformation_transfer_hucf5be2d167f530b3c6c4ccf6ffd30f6f_1897426_03bcac995bf1957e98ad55eaecfedd0f.jpg 400w,
-               /publication/deep_cage/deformation_transfer_hucf5be2d167f530b3c6c4ccf6ffd30f6f_1897426_8d93bff5a67a0157ab6ce07ec3d6b11c.jpg 760w,
-               /publication/deep_cage/deformation_transfer_hucf5be2d167f530b3c6c4ccf6ffd30f6f_1897426_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/deep_cage/deformation_transfer_hucf5be2d167f530b3c6c4ccf6ffd30f6f_1897426_03bcac995bf1957e98ad55eaecfedd0f.jpg&#34;
+               /publication/deep_cage/deformation_transfer_hucf5be2d167f530b3c6c4ccf6ffd30f6f_1897426_8ab11b080197451e9276541d3f1edf23.webp 400w,
+               /publication/deep_cage/deformation_transfer_hucf5be2d167f530b3c6c4ccf6ffd30f6f_1897426_910abcbd9aa43db9a91718c3ca3586f1.webp 760w,
+               /publication/deep_cage/deformation_transfer_hucf5be2d167f530b3c6c4ccf6ffd30f6f_1897426_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/deep_cage/deformation_transfer_hucf5be2d167f530b3c6c4ccf6ffd30f6f_1897426_8ab11b080197451e9276541d3f1edf23.webp&#34;
                width=&#34;760&#34;
                height=&#34;529&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -600,10 +616,10 @@ generalize to never-observed characters, even if the novel source and target cha
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;teaser&#34; srcset=&#34;
-               /publication/dss/teaser_hu0603bb4b795549b646695bb3eace70fe_787383_cbfb06601aca7f6c5d2cb8f982d6d2c5.png 400w,
-               /publication/dss/teaser_hu0603bb4b795549b646695bb3eace70fe_787383_619e4e35c76c2f70ccddd6c5d9f2869b.png 760w,
-               /publication/dss/teaser_hu0603bb4b795549b646695bb3eace70fe_787383_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/dss/teaser_hu0603bb4b795549b646695bb3eace70fe_787383_cbfb06601aca7f6c5d2cb8f982d6d2c5.png&#34;
+               /publication/dss/teaser_hu0603bb4b795549b646695bb3eace70fe_787383_38dd0ddb9c6fbb25603783af242ca2d9.webp 400w,
+               /publication/dss/teaser_hu0603bb4b795549b646695bb3eace70fe_787383_a421a81f6e6e0c9b9ab0f81dc08a44d0.webp 760w,
+               /publication/dss/teaser_hu0603bb4b795549b646695bb3eace70fe_787383_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/dss/teaser_hu0603bb4b795549b646695bb3eace70fe_787383_38dd0ddb9c6fbb25603783af242ca2d9.webp&#34;
                width=&#34;760&#34;
                height=&#34;172&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -630,10 +646,10 @@ generalize to never-observed characters, even if the novel source and target cha
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;synthesis&#34; srcset=&#34;
-               /publication/dss/yoga_hud75168a24873154fc3315cd4622e3aa1_3068741_9bcc5fed85b3831a83470be65035bdf8.png 400w,
-               /publication/dss/yoga_hud75168a24873154fc3315cd4622e3aa1_3068741_f64e0148a8b36c351661d6e852e75d35.png 760w,
-               /publication/dss/yoga_hud75168a24873154fc3315cd4622e3aa1_3068741_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/dss/yoga_hud75168a24873154fc3315cd4622e3aa1_3068741_9bcc5fed85b3831a83470be65035bdf8.png&#34;
+               /publication/dss/yoga_hud75168a24873154fc3315cd4622e3aa1_3068741_8e740b09b020bb7c257e65816084662d.webp 400w,
+               /publication/dss/yoga_hud75168a24873154fc3315cd4622e3aa1_3068741_6bf1c254bf0f6d9df1deb1c1e39ad25f.webp 760w,
+               /publication/dss/yoga_hud75168a24873154fc3315cd4622e3aa1_3068741_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/dss/yoga_hud75168a24873154fc3315cd4622e3aa1_3068741_8e740b09b020bb7c257e65816084662d.webp&#34;
                width=&#34;760&#34;
                height=&#34;559&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -660,10 +676,10 @@ generalize to never-observed characters, even if the novel source and target cha
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;filtering&#34; srcset=&#34;
-               /publication/dss/DSSfilter_hu2b42d738bd54101b04a2a9934a042558_2336149_c865e07502fc7add4fa85d9eb434d55c.png 400w,
-               /publication/dss/DSSfilter_hu2b42d738bd54101b04a2a9934a042558_2336149_9a56bb212eb773c6595f9674a09e7453.png 760w,
-               /publication/dss/DSSfilter_hu2b42d738bd54101b04a2a9934a042558_2336149_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/dss/DSSfilter_hu2b42d738bd54101b04a2a9934a042558_2336149_c865e07502fc7add4fa85d9eb434d55c.png&#34;
+               /publication/dss/DSSfilter_hu2b42d738bd54101b04a2a9934a042558_2336149_5e371b9ffb432d11101f3380b62a1255.webp 400w,
+               /publication/dss/DSSfilter_hu2b42d738bd54101b04a2a9934a042558_2336149_2e2ad411b5e91f6dd48923955132de67.webp 760w,
+               /publication/dss/DSSfilter_hu2b42d738bd54101b04a2a9934a042558_2336149_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/dss/DSSfilter_hu2b42d738bd54101b04a2a9934a042558_2336149_5e371b9ffb432d11101f3380b62a1255.webp&#34;
                width=&#34;760&#34;
                height=&#34;564&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -690,10 +706,10 @@ generalize to never-observed characters, even if the novel source and target cha
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Denoising&#34; srcset=&#34;
-               /publication/dss/armadillo_2_all_hue32edefd6be881a28491b18f438ad233_2527235_db1431c0c006a6885c68224aba69a866.png 400w,
-               /publication/dss/armadillo_2_all_hue32edefd6be881a28491b18f438ad233_2527235_95c562bda20d30b5d4523436d46d4364.png 760w,
-               /publication/dss/armadillo_2_all_hue32edefd6be881a28491b18f438ad233_2527235_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/dss/armadillo_2_all_hue32edefd6be881a28491b18f438ad233_2527235_db1431c0c006a6885c68224aba69a866.png&#34;
+               /publication/dss/armadillo_2_all_hue32edefd6be881a28491b18f438ad233_2527235_ca6e5f96231589480cd8fe9580ae5c9f.webp 400w,
+               /publication/dss/armadillo_2_all_hue32edefd6be881a28491b18f438ad233_2527235_3543a0456a3eddd40ddfc712b19ab0ff.webp 760w,
+               /publication/dss/armadillo_2_all_hue32edefd6be881a28491b18f438ad233_2527235_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/dss/armadillo_2_all_hue32edefd6be881a28491b18f438ad233_2527235_ca6e5f96231589480cd8fe9580ae5c9f.webp&#34;
                width=&#34;760&#34;
                height=&#34;427&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -735,10 +751,10 @@ This work was supported in part by gifts from Adobe, Facebook and Snap, Inc.&lt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;teaser&#34; srcset=&#34;
-               /publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_403fe35eea01c862d9d7782de110b3f2.png 400w,
-               /publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_56fd086f5f1bfed34ccff2acff38b6f4.png 760w,
-               /publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_403fe35eea01c862d9d7782de110b3f2.png&#34;
+               /publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_29e4c2e73cf14198b681c075e89cc5e3.webp 400w,
+               /publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_ea18798aa6e56cbb4f141c14820fb2ed.webp 760w,
+               /publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_29e4c2e73cf14198b681c075e89cc5e3.webp&#34;
                width=&#34;760&#34;
                height=&#34;148&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -762,13 +778,15 @@ $16\times$ upsampling from 625 points
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_46ecceca49bf37b93f376b6d786f94bd.png 400w,
-               /publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_3c2ed8e0adfe10d3d734d9f807780863.png 760w,
-               /publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_46ecceca49bf37b93f376b6d786f94bd.png&#34;
+               /publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_9edef7f108df2c1b3f9c6f0608ab5be6.webp 400w,
+               /publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_3f99c9b0d0b641d18f7cdaef663270fa.webp 760w,
+               /publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_9edef7f108df2c1b3f9c6f0608ab5be6.webp&#34;
                width=&#34;760&#34;
                height=&#34;343&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -789,13 +807,15 @@ $16\times$ upsampling from 625 points
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_40e045a89003dcd4995f9dd5d4b5d65e.png 400w,
-               /publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_07a54e6eed0cb5f41d1c5da462547054.png 760w,
-               /publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_40e045a89003dcd4995f9dd5d4b5d65e.png&#34;
+               /publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_c280fc3bd4125e84c9a2c64999f08963.webp 400w,
+               /publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_f7cea573aa93dca15d613429aeaa3bd4.webp 760w,
+               /publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_c280fc3bd4125e84c9a2c64999f08963.webp&#34;
                width=&#34;760&#34;
                height=&#34;531&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -816,13 +836,15 @@ $16\times$ upsampling from 625 points
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_777fe85ae13531d32d6456a4a9f4f382.png 400w,
-               /publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_4122e220a57ca94df431a51ac1f9a94b.png 760w,
-               /publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_777fe85ae13531d32d6456a4a9f4f382.png&#34;
+               /publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_c6d5e3840952a7f9e1ec97c0e98ad758.webp 400w,
+               /publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_08d51235218398060491e310988f70e8.webp 760w,
+               /publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_c6d5e3840952a7f9e1ec97c0e98ad758.webp&#34;
                width=&#34;760&#34;
                height=&#34;687&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -843,13 +865,15 @@ $16\times$ upsampling from 625 points
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_157938174fe19d0f82fe7f5812222c09.png 400w,
-               /publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_fb3ba9a67f7c936b616280273a5bcbd4.png 760w,
-               /publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_157938174fe19d0f82fe7f5812222c09.png&#34;
+               /publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_14f5c7a1a4484ce97f369efc2acf65b3.webp 400w,
+               /publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_f58525b23a69d89a8ff1b803b5c646af.webp 760w,
+               /publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_14f5c7a1a4484ce97f369efc2acf65b3.webp&#34;
                width=&#34;704&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -886,10 +910,10 @@ $16\times$ upsampling from 625 points
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;teaser&#34; srcset=&#34;
-               /publication/prosr/teaser_hu7bc39c5843791f2e96e2bf4a6d0ee2c4_908466_2e722302f31b6190be461d5b785c3372.png 400w,
-               /publication/prosr/teaser_hu7bc39c5843791f2e96e2bf4a6d0ee2c4_908466_d1d9e47169d4c470fc9eb628112c6528.png 760w,
-               /publication/prosr/teaser_hu7bc39c5843791f2e96e2bf4a6d0ee2c4_908466_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/prosr/teaser_hu7bc39c5843791f2e96e2bf4a6d0ee2c4_908466_2e722302f31b6190be461d5b785c3372.png&#34;
+               /publication/prosr/teaser_hu7bc39c5843791f2e96e2bf4a6d0ee2c4_908466_e44849654acbd39102ae46abeff17938.webp 400w,
+               /publication/prosr/teaser_hu7bc39c5843791f2e96e2bf4a6d0ee2c4_908466_793c5da1bb29de4a48c8814fed9e9b55.webp 760w,
+               /publication/prosr/teaser_hu7bc39c5843791f2e96e2bf4a6d0ee2c4_908466_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/prosr/teaser_hu7bc39c5843791f2e96e2bf4a6d0ee2c4_908466_e44849654acbd39102ae46abeff17938.webp&#34;
                width=&#34;760&#34;
                height=&#34;213&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -915,10 +939,10 @@ $16\times$ upsampling from 625 points
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;benchmark&#34; srcset=&#34;
-               /publication/prosr/prosr_benchmark_hu0c14cc2d175ff2dbd1dc10cd687365c1_129303_8cfd438c60ac5ceb4548dd2fc869808f.png 400w,
-               /publication/prosr/prosr_benchmark_hu0c14cc2d175ff2dbd1dc10cd687365c1_129303_2bfc699c87d1cdb335bfccb105be4071.png 760w,
-               /publication/prosr/prosr_benchmark_hu0c14cc2d175ff2dbd1dc10cd687365c1_129303_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/prosr/prosr_benchmark_hu0c14cc2d175ff2dbd1dc10cd687365c1_129303_8cfd438c60ac5ceb4548dd2fc869808f.png&#34;
+               /publication/prosr/prosr_benchmark_hu0c14cc2d175ff2dbd1dc10cd687365c1_129303_dcf64fa9555015f184b4bf576e7964ef.webp 400w,
+               /publication/prosr/prosr_benchmark_hu0c14cc2d175ff2dbd1dc10cd687365c1_129303_d76b2bf232976c25a5dac77441dbf2e6.webp 760w,
+               /publication/prosr/prosr_benchmark_hu0c14cc2d175ff2dbd1dc10cd687365c1_129303_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/prosr/prosr_benchmark_hu0c14cc2d175ff2dbd1dc10cd687365c1_129303_dcf64fa9555015f184b4bf576e7964ef.webp&#34;
                width=&#34;760&#34;
                height=&#34;154&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

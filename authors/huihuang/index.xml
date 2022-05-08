@@ -36,10 +36,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;teaser&#34; srcset=&#34;
-               /publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_403fe35eea01c862d9d7782de110b3f2.png 400w,
-               /publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_56fd086f5f1bfed34ccff2acff38b6f4.png 760w,
-               /publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_403fe35eea01c862d9d7782de110b3f2.png&#34;
+               /publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_29e4c2e73cf14198b681c075e89cc5e3.webp 400w,
+               /publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_ea18798aa6e56cbb4f141c14820fb2ed.webp 760w,
+               /publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/3pu/teaser_hue941d5737ff9a65a92341b6d94789b13_1958401_29e4c2e73cf14198b681c075e89cc5e3.webp&#34;
                width=&#34;760&#34;
                height=&#34;148&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -63,13 +63,15 @@ $16\times$ upsampling from 625 points
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_46ecceca49bf37b93f376b6d786f94bd.png 400w,
-               /publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_3c2ed8e0adfe10d3d734d9f807780863.png 760w,
-               /publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_46ecceca49bf37b93f376b6d786f94bd.png&#34;
+               /publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_9edef7f108df2c1b3f9c6f0608ab5be6.webp 400w,
+               /publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_3f99c9b0d0b641d18f7cdaef663270fa.webp 760w,
+               /publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/3pu/figure_sparse_hud2ea52a596ae36c36eb01f40e00c846e_1836455_9edef7f108df2c1b3f9c6f0608ab5be6.webp&#34;
                width=&#34;760&#34;
                height=&#34;343&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -90,13 +92,15 @@ $16\times$ upsampling from 625 points
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_40e045a89003dcd4995f9dd5d4b5d65e.png 400w,
-               /publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_07a54e6eed0cb5f41d1c5da462547054.png 760w,
-               /publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_40e045a89003dcd4995f9dd5d4b5d65e.png&#34;
+               /publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_c280fc3bd4125e84c9a2c64999f08963.webp 400w,
+               /publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_f7cea573aa93dca15d613429aeaa3bd4.webp 760w,
+               /publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/3pu/figure_dense_hu014ad1967466bfe0de5a18b8abf9e18d_3850114_c280fc3bd4125e84c9a2c64999f08963.webp&#34;
                width=&#34;760&#34;
                height=&#34;531&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -117,13 +121,15 @@ $16\times$ upsampling from 625 points
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_777fe85ae13531d32d6456a4a9f4f382.png 400w,
-               /publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_4122e220a57ca94df431a51ac1f9a94b.png 760w,
-               /publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_777fe85ae13531d32d6456a4a9f4f382.png&#34;
+               /publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_c6d5e3840952a7f9e1ec97c0e98ad758.webp 400w,
+               /publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_08d51235218398060491e310988f70e8.webp 760w,
+               /publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/3pu/real_scan_hu291df38f9bd4033062d7137c94f34fb5_4162448_c6d5e3840952a7f9e1ec97c0e98ad758.webp&#34;
                width=&#34;760&#34;
                height=&#34;687&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -144,13 +150,15 @@ $16\times$ upsampling from 625 points
 
 
 
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_157938174fe19d0f82fe7f5812222c09.png 400w,
-               /publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_fb3ba9a67f7c936b616280273a5bcbd4.png 760w,
-               /publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://yifita.github.io/publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_157938174fe19d0f82fe7f5812222c09.png&#34;
+               /publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_14f5c7a1a4484ce97f369efc2acf65b3.webp 400w,
+               /publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_f58525b23a69d89a8ff1b803b5c646af.webp 760w,
+               /publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://yifita.github.io/publication/3pu/scan_hud8ec081405baf5878204f29fd86bddd9_1766035_14f5c7a1a4484ce97f369efc2acf65b3.webp&#34;
                width=&#34;704&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
